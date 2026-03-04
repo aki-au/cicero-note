@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "population": "adult_nonpregnant_resting",
+  "vitals": [
+    {
+      "name": "body_temperature",
+      "label": "Body temperature",
+      "unit": "°C",
+      "normal_range": { "min": 36.1, "max": 37.2 },
+      "alternate_units": {
+        "unit": "°F",
+        "normal_range": { "min": 97.0, "max": 99.0 }
+      },
+      "notes": ["Varies by measurement site and time of day."]
+    },
+    {
+      "name": "heart_rate",
+      "label": "Heart rate",
+      "unit": "bpm",
+      "normal_range": { "min": 60, "max": 100 },
+      "notes": ["Resting adult range."]
+    },
+    {
+      "name": "respiratory_rate",
+      "label": "Respiratory rate",
+      "unit": "breaths/min",
+      "normal_range": { "min": 12, "max": 20 },
+      "notes": ["Resting adult range."]
+    },
+    {
+      "name": "blood_pressure_systolic",
+      "label": "Blood pressure (systolic)",
+      "unit": "mmHg",
+      "normal_range": { "min": 90, "max": 120 },
+      "notes": ["Typical resting range; context-dependent."]
+    },
+    {
+      "name": "blood_pressure_diastolic",
+      "label": "Blood pressure (diastolic)",
+      "unit": "mmHg",
+      "normal_range": { "min": 60, "max": 80 },
+      "notes": ["Typical resting range; context-dependent."]
+    },
+    {
+      "name": "mean_arterial_pressure",
+      "label": "Mean arterial pressure",
+      "unit": "mmHg",
+      "normal_range": { "min": 70, "max": 100 },
+      "notes": ["Often used for perfusion assessment; target ranges vary clinically."]
+    },
+    {
+      "name": "oxygen_saturation",
+      "label": "Oxygen saturation (SpO2)",
+      "unit": "%",
+      "normal_range": { "min": 95, "max": 100 },
+      "notes": ["At sea level; lower may be normal at high altitude or with chronic lung disease."]
+    },
+    {
+      "name": "pain_score",
+      "label": "Pain score",
+      "unit": "0-10",
+      "normal_range": { "min": 0, "max": 0 },
+      "notes": ["‘Normal’ is typically no pain; included because commonly charted with vitals."]
+    }
+  ]
+}
+

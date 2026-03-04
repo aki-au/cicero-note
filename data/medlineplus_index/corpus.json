@@ -1,0 +1,1434 @@
+{
+  "cond_000001": {
+    "condition": "Hypertension",
+    "summary": "Hypertension, also known as high blood pressure, is a common condition where the force of blood pushing against the arteries is too high. It can be dangerous if not treated, and can lead to life-threatening conditions like heart attack or stroke. By making healthy lifestyle changes such as eating a balanced diet, exercising regularly, managing stress, and getting enough sleep, you can help prevent or control hypertension and reduce your risk of these serious health problems.",
+    "aliases": [
+      "High blood pressure",
+      "HTN"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000002": {
+    "condition": "Hypotension",
+    "summary": "Hypotension, or low blood pressure, occurs when the force of blood pushing against artery walls is too low. This can happen when the heart doesn't pump enough blood or when certain medical conditions or medicines cause the blood pressure to drop. If left untreated, hypotension can lead to dizziness, fainting, or even shock.",
+    "aliases": [
+      "Low blood pressure"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000003": {
+    "condition": "Hyperlipidemia",
+    "summary": "Hyperlipidemia is a condition where you have too much cholesterol in your blood. This can lead to the buildup of plaque in your arteries, increasing your risk of heart disease and other serious health problems.",
+    "aliases": [
+      "High cholesterol",
+      "Dyslipidemia"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000004": {
+    "condition": "Coronary artery disease",
+    "summary": "Coronary artery disease is a condition where the arteries that supply blood to the heart muscle become hardened and narrowed due to the buildup of plaque. This buildup, known as atherosclerosis, reduces blood flow to the heart, leading to chest pain or a heart attack. If left untreated, CAD can weaken the heart muscle and contribute to heart failure and arrhythmias.",
+    "aliases": [
+      "CAD",
+      "Ischemic heart disease"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000005": {
+    "condition": "Stable angina",
+    "summary": "Stable angina is a symptom of coronary artery disease, characterized by chest pain or discomfort due to reduced blood flow to the heart muscle. It often follows a regular pattern and can be managed with rest and medication. Stable angina typically does not follow physical exertion.",
+    "aliases": [
+      "Angina pectoris"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000006": {
+    "condition": "Acute coronary syndrome",
+    "summary": "If you're experiencing chest pain or discomfort, it could be a sign that there's not enough blood flow to your heart. This can be a symptom of a more serious condition called coronary artery disease, where plaque builds up in the arteries that supply blood to the heart. If you're experiencing chest pain or discomfort, it's always best to speak with your healthcare provider to determine the cause and get the right treatment.",
+    "aliases": [
+      "ACS"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000007": {
+    "condition": "Myocardial infarction",
+    "summary": "Myocardial infarction, commonly known as a heart attack, occurs when blood flow to the heart is suddenly blocked, preventing the heart from getting oxygen. Symptoms can include chest discomfort, shortness of breath, and discomfort in the upper body, which can range from pressure to pain. If treated quickly, it's possible to prevent or limit damage to the heart muscle, but prompt medical attention is crucial to prevent further complications.",
+    "aliases": [
+      "Heart attack",
+      "MI"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000008": {
+    "condition": "Heart failure",
+    "summary": "Heart failure means your heart can't pump enough oxygen-rich blood to meet your body's needs, leading to reduced blood flow to your organs and fluid buildup in your body. Symptoms may include shortness of breath, fatigue, swelling, and weight gain, and can worsen over time if left untreated. Treatment typically includes medication, lifestyle changes, and sometimes surgery or a heart transplant, and can help manage symptoms and improve quality of life.",
+    "aliases": [
+      "Congestive heart failure",
+      "CHF"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000009": {
+    "condition": "Cardiomyopathy",
+    "summary": "Cardiomyopathy is a disease that affects the heart muscle, causing it to enlarge or become thicker and more rigid than normal. This can lead to serious complications, including heart failure and abnormal heart rhythms. Treatment options for cardiomyopathy may include medicines, surgery, and lifestyle changes.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000010": {
+    "condition": "Atrial fibrillation",
+    "summary": "Atrial fibrillation (AFib) is a common type of arrhythmia that affects the heart's rate and rhythm, causing the heart to beat irregularly and sometimes faster than normal. If left untreated, AFib can lead to serious health problems, including stroke, heart failure, and blood clots. Treatment options for AFib may include medications, lifestyle changes, and procedures such as electrical cardioversion or catheter ablation.",
+    "aliases": [
+      "AFib"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000011": {
+    "condition": "Atrial flutter",
+    "summary": "Atrial flutter is a type of arrhythmia characterized by an irregular and fast heartbeat. It can be caused by various factors, including stress, recent surgery, and certain health conditions. Treatment options for atrial flutter may include medication, an implantable device, or surgery to restore a normal heart rhythm.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000012": {
+    "condition": "Supraventricular tachycardia",
+    "summary": "Supraventricular tachycardia is a type of arrhythmia where the heart beats too quickly, usually above 100 beats per minute. This condition can cause symptoms such as chest pain, dizziness, and shortness of breath. Treatment for supraventricular tachycardia may include medicines, an implantable cardioverter-defibrillator, or surgery to restore a normal heart rhythm.",
+    "aliases": [
+      "SVT"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000013": {
+    "condition": "Ventricular tachycardia",
+    "summary": "Ventricular tachycardia is a type of arrhythmia characterized by a rapid heartbeat originating from the ventricles of the heart. It can be caused by various factors, including stress, certain medications, and underlying heart conditions. Treatment typically involves medication, implantable devices, or surgery to restore a normal heart rhythm.",
+    "aliases": [
+      "VT"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000014": {
+    "condition": "Bradycardia",
+    "summary": "Bradycardia is a type of arrhythmia where the heart beats too slowly, typically at a rate below 60 beats per minute. This can be caused by various factors, including stress, certain medications, or underlying health conditions. In severe cases, bradycardia can lead to reduced blood flow and oxygen delivery to the body's organs.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000015": {
+    "condition": "Peripheral artery disease",
+    "summary": "Peripheral artery disease occurs when the blood vessels outside of the heart become narrowed due to atherosclerosis, caused by the buildup of plaque made up of fat and cholesterol. This narrowing can reduce or stop blood flow, potentially leading to tissue death and amputation. Smoking is a main risk factor for PAD, along with other conditions such as diabetes and high blood pressure.",
+    "aliases": [
+      "PAD"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000016": {
+    "condition": "Deep vein thrombosis",
+    "summary": "Deep vein thrombosis (DVT) occurs when a blood clot forms in a deep vein, often in the lower leg or thigh. A DVT can cause swelling, warmth, and tenderness, as well as pain and redness in the affected area. If left untreated, a DVT can break loose and travel to the lung, causing a serious condition called a pulmonary embolism.",
+    "aliases": [
+      "DVT"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000017": {
+    "condition": "Pulmonary embolism",
+    "summary": "A pulmonary embolism, or PE, is a sudden blockage in the lung artery. This can happen when a blood clot breaks loose and travels to the lungs. If not treated, it can cause serious damage to the lungs and other organs.",
+    "aliases": [
+      "PE"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000018": {
+    "condition": "Aortic aneurysm",
+    "summary": "An aortic aneurysm is a bulge in the wall of the aorta, the main artery that carries oxygen-rich blood from the heart. If left untreated, a large aneurysm can burst, causing life-threatening bleeding. Early detection and treatment through imaging tests, medication, and surgery can help prevent complications and death.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000019": {
+    "condition": "Aortic dissection",
+    "summary": "Aortic dissection occurs when there is a tear in the inner layer of the aortic wall, causing the layers of the artery to separate and potentially leading to bleeding. This condition is often associated with an aneurysm, a bulge in the artery wall that can put pressure on nearby organs. If left untreated, aortic dissection can be life-threatening.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000020": {
+    "condition": "Valvular heart disease",
+    "summary": "Valvular heart disease occurs when one or more heart valves don't work well, affecting blood flow and straining the heart. The condition can be caused by various factors, including birth defects, aging, and certain medical conditions. If left untreated, valvular heart disease can lead to complications such as heart failure, stroke, blood clots, and cardiac arrest.",
+    "aliases": [
+      "Heart valve disease"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000021": {
+    "condition": "Aortic stenosis",
+    "summary": "Aortic stenosis is a type of stenosis that affects the aortic valve, preventing it from opening all the way and allowing enough blood to pass through. This can lead to a buildup of blood pressure and strain on the heart. If left untreated, aortic stenosis can cause serious complications, such as heart failure and stroke.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000022": {
+    "condition": "Mitral regurgitation",
+    "summary": "Mitral regurgitation occurs when blood flows backwards through the mitral valve, causing the heart to work harder to pump blood to the body. This can lead to symptoms such as heart palpitations, shortness of breath, and fatigue. If left untreated, mitral regurgitation can lead to more serious complications, including heart failure.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000023": {
+    "condition": "Endocarditis",
+    "summary": "Endocarditis is a rare but serious condition where the lining of the heart's chambers and valves becomes inflamed, often due to infection. This can be caused by germs that enter the bloodstream, such as bacteria or fungi, and can lead to serious health problems, including damage to the heart and increased risk of sepsis. If left untreated, endocarditis can cause serious complications, including heart failure, irregular heartbeat, and even death.",
+    "aliases": [
+      "Infective endocarditis"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000024": {
+    "condition": "Pericarditis",
+    "summary": "Pericarditis is an inflammation of the sac surrounding the heart, often caused by an infection, injury, or certain medical conditions. This condition can lead to symptoms such as chest pain, rapid heartbeat, and difficulty breathing. Fever is a common symptom of acute pericarditis.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000025": {
+    "condition": "Cardiac tamponade",
+    "summary": "Cardiac tamponade is a serious condition where fluid buildup in the pericardium sac compresses the heart, impairing its function. This condition can be life-threatening if left untreated. Symptoms include chest pain, rapid heartbeat, and difficulty breathing.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000026": {
+    "condition": "Raynaud phenomenon",
+    "summary": "Raynaud phenomenon is a condition where your blood vessels narrow, reducing blood flow, causing your fingers and toes to become cold and numb. It's often triggered by cold temperatures or stress, and can be more serious in people with underlying diseases or conditions. By taking precautions to stay warm and managing stress, you can help prevent attacks and manage your symptoms.",
+    "aliases": [
+      "Raynaud's"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000027": {
+    "condition": "Orthostatic hypotension",
+    "summary": "Orthostatic hypotension is a condition where the blood pressure drops significantly upon standing, leading to dizziness, fainting, or other symptoms. This occurs when the blood pressure falls below normal levels, making it difficult for the body to maintain adequate blood flow to the brain and other vital organs. In severe cases, this can lead to shock, a life-threatening condition.",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  "cond_000028": {
+    "condition": "Syncope",
+    "summary": "Syncope is a temporary loss of consciousness characterized by feelings of dizziness, lightheadedness, and nausea, often accompanied by a sudden drop in blood pressure. It can be caused by a range of factors, including heat, dehydration, emotional distress, and certain medical conditions. Recovery from syncope is usually complete, but frequent or unexplained episodes may indicate a more serious underlying issue.",
+    "aliases": [
+      "Fainting"
+    ],
+    "category": "Cardiovascular"
+  },
+  "cond_000029": {
+    "condition": "Asthma",
+    "summary": "Asthma is a long-term lung disease that affects your airways, causing inflammation and narrowing, leading to symptoms like wheezing, coughing, and tightness in the chest. Triggers such as allergens, air pollution, and certain medications can set off asthma symptoms, which can range from mild to severe and may require immediate medical attention. Treatment options include avoiding triggers, using quick-relief medicines, and control medicines to prevent symptoms and control asthma attacks.",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  "cond_000030": {
+    "condition": "Exercise-induced bronchoconstriction",
+    "summary": "Exercise-induced bronchoconstriction, also known as exercise-induced asthma, is a condition where your airways narrow and constrict during physical exercise, especially in dry air. This can cause symptoms like wheezing, coughing, and shortness of breath. It's often triggered by exercising in cold or dry environments, and can be managed with medication and avoiding triggers.",
+    "aliases": [
+      "Exercise-induced asthma"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000031": {
+    "condition": "Chronic obstructive pulmonary disease",
+    "summary": "Chronic obstructive pulmonary disease (COPD) is a group of lung diseases that make it hard to breathe and worsen over time. It occurs when the airways and air sacs in the lungs become damaged, reducing the amount of air that can flow in and out of the lungs. This damage can be caused by long-term exposure to irritants such as cigarette smoke, air pollution, and chemical fumes.",
+    "aliases": [
+      "COPD"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000032": {
+    "condition": "Chronic bronchitis",
+    "summary": "Chronic bronchitis is a type of COPD that involves inflammation and irritation of the airways, leading to difficulty breathing and mucus buildup. It is often caused by long-term exposure to irritants such as cigarette smoke, air pollution, and chemical fumes.",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  "cond_000033": {
+    "condition": "Emphysema",
+    "summary": "Emphysema is a type of chronic obstructive pulmonary disease (COPD) that affects the air sacs in the lungs, causing them to lose their shape and become floppy. The damage to the air sacs makes it harder for the lungs to move oxygen in and carbon dioxide out of the body.",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  "cond_000034": {
+    "condition": "Pneumonia",
+    "summary": "Pneumonia is an infection in one or both of the lungs that can be caused by bacteria, viruses, or fungi. The symptoms can range from mild to severe and include fever, cough, shortness of breath, and chest pain. Treatment depends on the type and severity of the infection, and may include antibiotics, antiviral medicines, and oxygen therapy.",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  "cond_000035": {
+    "condition": "Acute bronchitis",
+    "summary": "Acute bronchitis is an inflammation of the bronchial tubes, characterized by a cough that often brings up mucus and can cause shortness of breath, wheezing, and chest tightness. Most cases of acute bronchitis are caused by viruses and resolve on their own within several days. In some cases, antibiotics may be prescribed if the cause is bacterial.",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  "cond_000036": {
+    "condition": "Upper respiratory infection",
+    "summary": "A cold is a mild infection that affects the upper part of the respiratory tract, including the nose, throat, and lungs. It's caused by a virus that can be spread through the air, close contact, or by touching contaminated surfaces. The symptoms include a runny nose, stuffy nose, sore throat, cough, and headache, and can last for 10-14 days.",
+    "aliases": [
+      "URI",
+      "Common cold"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000037": {
+    "condition": "Influenza",
+    "summary": "The flu, also known as influenza, is a respiratory infection caused by viruses that can cause mild to serious illness. It's especially serious for people over 65, newborn babies, and those with certain chronic illnesses, and can lead to complications like pneumonia, bronchitis, and sinus infections.",
+    "aliases": [
+      "Flu"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000038": {
+    "condition": "COVID-19",
+    "summary": "COVID-19 is a viral disease caused by SARS-CoV-2, which can be detected through various types of tests, including rapid antigen tests and laboratory PCR tests. An antibody test may indicate a past infection. Individuals with negative COVID-19 tests should still take precautions to prevent the spread of the virus.",
+    "aliases": [
+      "SARS-CoV-2 infection"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000039": {
+    "condition": "Tuberculosis",
+    "summary": "Tuberculosis (TB) is a bacterial infection that primarily affects the lungs, but can also affect other parts of the body. It can be treated with antibiotics, and most people with TB disease can be cured if they take their medication as directed.",
+    "aliases": [
+      "TB"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000040": {
+    "condition": "Sinusitis",
+    "summary": "Sinusitis is an inflammation of the sinuses, which are hollow air spaces within the bones surrounding the nose. The condition can be caused by an infection, allergies, or other problems, and can lead to symptoms such as congestion, cough, and fever. Treatment for sinusitis may include antibiotics, decongestants, and pain relievers, as well as home remedies like heat pads and saline nasal sprays.",
+    "aliases": [
+      "Rhinosinusitis"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000041": {
+    "condition": "Allergic rhinitis",
+    "summary": "Allergic rhinitis, also known as hay fever, is a common allergy that occurs when pollen from trees, weeds, and grasses enters the nose and throat. Symptoms include sneezing, runny or clogged nose, and itchy eyes, nose, and throat. Treatment options include taking medicines, using nasal sprays, and allergy shots to alleviate symptoms.",
+    "aliases": [
+      "Hay fever"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000042": {
+    "condition": "Obstructive sleep apnea",
+    "summary": "Obstructive sleep apnea is a common disorder that causes breathing pauses during sleep, lasting from a few seconds to minutes, and can occur up to 30 times per hour. It is caused by the airway collapsing or becoming blocked during sleep, leading to loud snoring and daytime drowsiness. People with obstructive sleep apnea are at increased risk for car crashes, work-related accidents, and other medical problems if left untreated.",
+    "aliases": [
+      "OSA"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000043": {
+    "condition": "Laryngitis",
+    "summary": "Laryngitis is a condition that affects the voice box, causing a hoarse or lost voice due to swelling. It can be caused by viral infections, allergies, or other factors. In most cases, throat problems like laryngitis are minor and can be treated accordingly.",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  "cond_000044": {
+    "condition": "Croup",
+    "summary": "Croup is an inflammation of the vocal cords and windpipe, typically caused by a virus like parainfluenza, and is characterized by symptoms such as difficulty breathing, a barking cough, and a hoarse voice. Children under the age of 3 are at highest risk of developing croup, and the condition often worsens at night. Most cases of croup are mild and can be treated at home, but in rare cases it can become serious and affect breathing.",
+    "aliases": [
+      "Laryngotracheobronchitis"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000045": {
+    "condition": "Pleural effusion",
+    "summary": "Pleural effusion is a condition characterized by excess fluid accumulation in the thin space between the layers of the pleura, which can impede smooth lung movement. It is often caused by conditions such as congestive heart failure, lung diseases, or injury to the chest. Treatment typically involves draining the fluid, relieving symptoms, and addressing the underlying condition.",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  "cond_000046": {
+    "condition": "Pneumothorax",
+    "summary": "A pneumothorax occurs when air enters the pleural space, causing the lung to collapse. This can happen due to various factors, including lung diseases and surgical procedures. Symptoms may include shortness of breath and a rapid heart rate, depending on the extent of the collapse.",
+    "aliases": [
+      "Collapsed lung"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000047": {
+    "condition": "Interstitial lung disease",
+    "summary": "Interstitial lung disease is a group of conditions that cause inflammation and scarring in the lungs, making it harder to get enough oxygen. Some types are caused by breathing in dust or particles in the air, such as coal dust, farm dust, or asbestos fibers, while others may have no known cause. Treatment depends on the type of exposure and the stage of the disease, and may include medicines, oxygen therapy, or a lung transplant in severe cases.",
+    "aliases": [
+      "ILD"
+    ],
+    "category": "Respiratory"
+  },
+  "cond_000048": {
+    "condition": "Sarcoidosis",
+    "summary": "Sarcoidosis is a condition where your immune system forms small, inflamed lumps called granulomas in various organs, especially the lungs and lymph nodes. This can lead to permanent scarring and organ damage if left untreated.",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  "cond_000049": {
+    "condition": "Type 1 diabetes mellitus",
+    "summary": "Type 1 diabetes is a condition where your body doesn't produce insulin, a hormone that helps your cells get energy from glucose. As a result, glucose builds up in your blood, which can lead to serious health problems if left untreated. With Type 1 diabetes, you'll need to take insulin injections for the rest of your life to manage your condition.",
+    "aliases": [
+      "T1DM",
+      "Type 1 diabetes"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000050": {
+    "condition": "Type 2 diabetes mellitus",
+    "summary": "Your body can't use insulin properly, which causes blood glucose levels to be too high. This can lead to health problems over time. With proper management and lifestyle changes, you can manage your type 2 diabetes and prevent long-term health issues.",
+    "aliases": [
+      "T2DM",
+      "Type 2 diabetes"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000051": {
+    "condition": "Prediabetes",
+    "summary": "Prediabetes is a condition where blood glucose levels are higher than normal but not high enough to be called diabetes. It can cause damage to the body over time and increase the risk of developing type 2 diabetes, heart disease, and stroke. Making lifestyle changes, such as losing weight, getting regular physical activity, and following a healthy eating plan, may be able to delay or prevent type 2 diabetes.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000052": {
+    "condition": "Hypoglycemia",
+    "summary": "Hypoglycemia is a condition where the level of glucose in the blood drops below a healthy range, typically below 70 mg/dL for people with diabetes and below 55 mg/dL for those without diabetes. This can occur due to various factors, including the use of insulin or certain medicines, inadequate carbohydrate intake, excessive physical activity, or underlying medical conditions such as liver disease or kidney disease.",
+    "aliases": [
+      "Low blood sugar"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000053": {
+    "condition": "Diabetic ketoacidosis",
+    "summary": "Diabetic ketoacidosis (DKA) is a serious complication of diabetes that occurs when the body produces high levels of ketones due to a lack of insulin, leading to life-threatening symptoms such as trouble breathing, nausea, and abdominal pain. If left untreated, DKA can cause severe health problems and even be fatal. Regular monitoring of blood glucose levels and prompt medical attention can help prevent and treat DKA.",
+    "aliases": [
+      "DKA"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000054": {
+    "condition": "Hypothyroidism",
+    "summary": "Hypothyroidism is a condition where the thyroid gland doesn't produce enough thyroid hormones, leading to slowed bodily functions. This can cause symptoms such as fatigue, weight gain, and joint pain. If left untreated, hypothyroidism can lead to more serious complications, including high cholesterol and potentially life-threatening myxedema coma.",
+    "aliases": [
+      "Underactive thyroid"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000055": {
+    "condition": "Hyperthyroidism",
+    "summary": "Hyperthyroidism is a condition where the thyroid gland produces excess hormones, affecting nearly every organ in the body and controlling various bodily functions. If left untreated, it can lead to serious problems, including irregular heartbeat, eye disease, bone thinning, and fertility issues. Treatment options include medications, radioiodine therapy, and surgery.",
+    "aliases": [
+      "Overactive thyroid"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000056": {
+    "condition": "Hashimoto thyroiditis",
+    "summary": "Hashimoto thyroiditis is a common cause of hypothyroidism, where the immune system attacks the thyroid gland. This leads to a decrease in thyroid hormone production, affecting various bodily functions. The condition is often associated with fatigue, weight gain, and dry skin, among other symptoms.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000057": {
+    "condition": "Graves disease",
+    "summary": "Graves' disease is an autoimmune disorder that causes the thyroid gland to produce excessive amounts of thyroid hormones, leading to hyperthyroidism. This can lead to symptoms such as nervousness, fatigue, muscle weakness, and weight loss. Untreated Graves' disease can cause serious health problems, including irregular heartbeat, eye disease, and fertility issues.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000058": {
+    "condition": "Thyroid nodule",
+    "summary": "A thyroid nodule is a lump that appears in the thyroid gland, which can be caused by an overproduction or underproduction of hormones. This condition is often related to thyroid diseases, such as hyperthyroidism or hypothyroidism. A thyroid nodule can be a symptom of an underlying thyroid problem, which may require medical evaluation and treatment.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000059": {
+    "condition": "Goiter",
+    "summary": "A goiter is an enlargement of the thyroid gland, which can affect nearly every organ in the body and control many important functions. It occurs when the thyroid gland produces too much or too little of the hormones that regulate energy use. This condition can be diagnosed through a medical history, physical exam, and thyroid tests, and treatment options may include medicines, radioiodine therapy, or thyroid surgery.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000060": {
+    "condition": "Polycystic ovary syndrome",
+    "summary": "Polycystic ovary syndrome (PCOS) is a hormonal imbalance that affects many parts of the body, including the ovaries, hormones, and overall health. Women with PCOS may experience irregular periods, excess hair growth, acne, and obesity, among other symptoms. The exact cause of PCOS is unknown, but it's thought to be linked to genetics, insulin resistance, and hormonal imbalances.",
+    "aliases": [
+      "PCOS"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000061": {
+    "condition": "Cushing syndrome",
+    "summary": "Cushing syndrome is a hormonal disorder caused by long-term exposure to too much cortisol, a hormone produced by the adrenal gland. This excessive cortisol can be triggered by various factors, including taking synthetic hormone medicine or having a tumor that produces cortisol. Symptoms include obesity, fatigue, high blood pressure, and easy bruising.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000062": {
+    "condition": "Addison disease",
+    "summary": "Your adrenal glands don't make enough hormones that help your body respond to stress and regulate its balance, which can lead to symptoms like weight loss, muscle weakness, and low blood pressure. This condition is usually caused by a problem with your immune system, and if left untreated, it can be fatal. You'll need to take hormone pills for the rest of your life to manage the condition.",
+    "aliases": [
+      "Primary adrenal insufficiency"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000063": {
+    "condition": "Hyperparathyroidism",
+    "summary": "Hyperparathyroidism occurs when the parathyroid glands produce too much parathyroid hormone (PTH), disrupting the body's calcium and phosphorus balance and causing blood calcium levels to rise. This condition can be caused by a benign tumor on a parathyroid gland or enlarged glands, and in rare cases, it may be due to cancer. Treatment aims to restore the balance of calcium and phosphorus in the body.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000064": {
+    "condition": "Hypoparathyroidism",
+    "summary": "Hypoparathyroidism is a condition where the parathyroid glands do not produce enough parathyroid hormone (PTH), disrupting the body's balance of calcium and phosphorus. This leads to low blood calcium levels and high phosphorus levels. The condition can be caused by injury, endocrine disorders, or genetic conditions.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000065": {
+    "condition": "Vitamin D deficiency",
+    "summary": "Vitamin D deficiency occurs when the body does not produce enough vitamin D to stay healthy. Vitamin D is essential for absorbing calcium, which is a key building block of bone. A deficiency in vitamin D can lead to weakened bones, bone pain, and muscle weakness, as well as conditions such as osteomalacia and rickets in children.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000066": {
+    "condition": "Obesity",
+    "summary": "Obesity is a disease characterized by having too much body fat. It is different from being overweight, which refers to weighing too much. The body mass index (BMI) is used to measure the risk of obesity, with a BMI of 30 or higher indicating obesity.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000067": {
+    "condition": "Metabolic syndrome",
+    "summary": "Metabolic syndrome is a group of risk factors for heart disease, diabetes, and other health problems that occur when a person has at least three of the following: a large waistline, high triglyceride levels, low HDL cholesterol levels, high blood pressure, or high fasting blood sugar levels. This condition can be caused by a combination of factors, including overweight and obesity, an inactive lifestyle, insulin resistance, age, and genetics. If left untreated, metabolic syndrome can lead to serious health complications, including excessive blood clotting and inflammation throughout the body.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000068": {
+    "condition": "Hyperuricemia",
+    "summary": "Having high levels of uric acid in your blood, also known as hyperuricemia, is a condition where your body makes too much uric acid or can't remove enough of it. This can lead to the formation of needle-like crystals in your joints, causing gout.",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  "cond_000069": {
+    "condition": "Migraine",
+    "summary": "Migraines are a type of headache that causes moderate to severe pain, usually on one side of your head. You may also experience nausea, weakness, sensitivity to light and sound, and other symptoms that can be triggered by factors such as stress, certain foods, and hormonal changes. If you're experiencing frequent or severe migraines, your doctor can help you develop a treatment plan to manage your symptoms and prevent future attacks.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000070": {
+    "condition": "Tension-type headache",
+    "summary": "Tension-type headaches are caused by tight muscles in the shoulders, neck, scalp, and jaw, often linked to stress, depression, or anxiety. They can be triggered by excessive work, lack of sleep, skipping meals, or alcohol consumption. Making lifestyle changes, relaxing, and taking pain relievers can help alleviate symptoms.",
+    "aliases": [
+      "Tension headache"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000071": {
+    "condition": "Cluster headache",
+    "summary": "Cluster headaches are a type of headache that occurs in clusters or periods of frequent episodes. They are often severe and can be accompanied by redness and tearing of the eye on the same side as the headache. Cluster headaches are typically short-lived, lasting between 15 minutes and 3 hours.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000072": {
+    "condition": "Epilepsy",
+    "summary": "Epilepsy is a brain disorder characterized by recurring seizures, which occur when clusters of nerve cells in the brain send out incorrect signals. These seizures can cause a range of symptoms, including strange sensations, emotions, and muscle spasms. There is currently no cure for epilepsy, but treatment options such as medication, surgery, and implanted devices can help control seizures.",
+    "aliases": [
+      "Seizure disorder"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000073": {
+    "condition": "Febrile seizure",
+    "summary": "A febrile seizure is a type of seizure that occurs in people with a high fever, typically in children. It is caused by abnormal electrical activity in the brain. Febrile seizures are usually mild and do not cause lasting harm, but in rare cases, they can be a sign of an underlying brain disorder.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000074": {
+    "condition": "Stroke",
+    "summary": "A stroke happens when the blood flow to the brain is blocked, causing brain cells to die within minutes. This can lead to lasting brain damage, long-term disability, or even death. If you think you or someone else is having a stroke, call 911 right away, as immediate treatment can save lives and increase chances of successful rehabilitation.",
+    "aliases": [
+      "Cerebrovascular accident",
+      "CVA"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000075": {
+    "condition": "Transient ischemic attack",
+    "summary": "A transient ischemic attack (TIA) is a temporary stroke that occurs when the blood supply to part of the brain is briefly blocked, causing symptoms that can include numbness, weakness, and vision problems. Most symptoms of a TIA disappear within an hour, but it's essential to seek medical attention immediately to rule out a more serious stroke. TIAs often serve as a warning sign for future strokes, and taking preventative measures such as exercising and managing health conditions can help reduce the risk.",
+    "aliases": [
+      "TIA",
+      "Mini-stroke"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000076": {
+    "condition": "Multiple sclerosis",
+    "summary": "Multiple sclerosis is a chronic condition that damages the myelin sheath, affecting the brain and spinal cord, and leading to slowed or blocked communication between the brain and body. Symptoms include visual disturbances, muscle weakness, and trouble with coordination and balance. There is currently no cure for MS, but medications and therapies can help manage symptoms and slow its progression.",
+    "aliases": [
+      "MS"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000077": {
+    "condition": "Parkinson disease",
+    "summary": "Parkinson's disease is a neurological disorder characterized by a decline in dopamine production in the brain, leading to symptoms such as tremors, stiffness, and slowed movement. The condition typically affects people over the age of 60 and is more common in men. There is currently no cure for Parkinson's disease, but medications, surgery, and deep brain stimulation can help manage symptoms.",
+    "aliases": [
+      "Parkinson's disease"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000078": {
+    "condition": "Alzheimer disease",
+    "summary": "Alzheimer's disease is a progressive brain disorder that affects thinking and memory skills, impairing a person's ability to reason and learn new skills. It begins slowly over many years, affecting the brain's thought, memory, and language control systems, and can lead to symptoms such as memory loss, confusion, and difficulty with daily activities. The disease can cause significant stress for family members who must care for those affected, and while there is no cure, lifestyle changes and medications can help manage symptoms.",
+    "aliases": [
+      "Alzheimer's disease"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000079": {
+    "condition": "Dementia",
+    "summary": "Dementia is a severe loss of mental functions that affects daily life and activities, including memory, language skills, and problem-solving abilities. It is a serious disorder that interferes with daily life, not a normal part of aging, and can be caused by various factors such as aging, smoking, and uncontrolled diabetes. The symptoms of dementia can vary and may include forgetfulness, trouble with thinking and problem-solving, and changes in emotions and behavior.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000080": {
+    "condition": "Peripheral neuropathy",
+    "summary": "Your peripheral nerves are like wires that carry messages between your brain and body, controlling movement, feeling sensations, and more. If these nerves are damaged, you may experience pain, weakness, numbness, or other problems, depending on which nerves are affected. Treatment for peripheral neuropathy can include medication, physical therapy, and lifestyle changes, and may help prevent further damage.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000081": {
+    "condition": "Carpal tunnel syndrome",
+    "summary": "Carpal tunnel syndrome is a common condition where a nerve in your wrist becomes squeezed, causing numbness, tingling, or pain in your hand. It often happens when you do repetitive hand movements or have an injury to your wrist. Women are more likely to develop this condition, and it's often related to health conditions or activities that strain the wrist.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000082": {
+    "condition": "Bell palsy",
+    "summary": "Bell palsy is a condition that causes sudden and temporary facial paralysis, often affecting one side of the face. It is typically accompanied by symptoms such as twitching, weakness, and drooping eyelids or corners of the mouth. The condition is often caused by a viral infection that inflames the facial nerve.",
+    "aliases": [
+      "Bell's palsy"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000083": {
+    "condition": "Meningitis",
+    "summary": "Meningitis is an inflammation of the protective tissue surrounding your brain and spinal cord, which can be caused by a virus or bacteria. It can cause serious symptoms like high fever, stiff neck, and nausea, and can be life-threatening if not treated promptly.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000084": {
+    "condition": "Encephalitis",
+    "summary": "Encephalitis is a serious medical condition where the brain becomes inflamed, often due to an infection or autoimmune response. This inflammation can lead to a range of symptoms, from mild to severe, including fever, headache, seizures, and coma. If left untreated, encephalitis can result in brain damage, stroke, or even death.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000085": {
+    "condition": "Concussion",
+    "summary": "A concussion is a type of traumatic brain injury (TBI) caused by a blow, bump, or jolt to the head. Symptoms of a concussion can range from mild to severe, including headache, confusion, and trouble with memory and concentration. With proper rest and treatment, most people with a concussion can recover fully, but in severe cases, further medical attention and rehabilitation may be necessary.",
+    "aliases": [
+      "Mild traumatic brain injury",
+      "mTBI"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000086": {
+    "condition": "Essential tremor",
+    "summary": "Essential Tremor is a neurological condition that causes involuntary shaking or trembling movements in one or more parts of the body, most often in the hands. It is the most common type of tremor and can also affect the arms, legs, head, vocal cords, and torso. The cause of Essential Tremor is often unknown, but it can be caused by a problem in the deep parts of the brain that control movements and can be triggered by certain medications, alcohol use, or other factors.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000087": {
+    "condition": "Sciatica",
+    "summary": "Sciatica is a symptom caused by a problem with the sciatic nerve, affecting pain, weakness, numbness, or tingling in the lower back and leg. The condition can be caused by a ruptured intervertebral disk, spinal stenosis, or an injury such as a pelvic fracture. In many cases, the cause of sciatica is unknown, and the condition may resolve on its own or require treatment with exercises, medicines, and surgery.",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  "cond_000088": {
+    "condition": "Guillain-Barre syndrome",
+    "summary": "Guillain-Barre syndrome is a rare disorder that causes the immune system to attack the peripheral nervous system, leading to muscle weakness and paralysis. The condition is often triggered by an infection, surgery, or vaccination, and can be life-threatening if left untreated. Most people recover from Guillain-Barre syndrome with treatment, which may take several weeks to several years.",
+    "aliases": [
+      "GBS"
+    ],
+    "category": "Neurological"
+  },
+  "cond_000089": {
+    "condition": "Major depressive disorder",
+    "summary": "Major Depressive Disorder is a serious mood disorder that affects how you think, feel, and live your daily life. It's characterized by a depressed mood or loss of interest in activities that lasts for at least two weeks, impacting your daily routines.",
+    "aliases": [
+      "Depression",
+      "MDD"
+    ],
+    "category": "Psychiatric"
+  },
+  "cond_000090": {
+    "condition": "Generalized anxiety disorder",
+    "summary": "Generalized anxiety disorder (GAD) is a mental health condition that causes persistent and excessive worry about everyday things, even when there's no apparent reason to worry. People with GAD may feel on edge, restless, and have trouble sleeping, concentrating, or enjoying activities. Treatment options for GAD often involve therapy, such as cognitive-behavioral therapy, and medication to help manage symptoms.",
+    "aliases": [
+      "GAD"
+    ],
+    "category": "Psychiatric"
+  },
+  "cond_000091": {
+    "condition": "Panic disorder",
+    "summary": "Panic Disorder is a type of anxiety disorder that causes recurring episodes of intense fear, discomfort, or a sense of losing control. These episodes, known as panic attacks, can be physically debilitating and often lead to avoidance of situations or places where the person had a panic attack in the past. Treatment for Panic Disorder typically involves a combination of talk therapy and medications, such as antidepressants or anti-anxiety medications, to help manage symptoms and improve quality of life.",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  "cond_000092": {
+    "condition": "Social anxiety disorder",
+    "summary": "Social anxiety disorder is a type of anxiety disorder characterized by a strong, irrational fear of everyday social situations. People with social anxiety disorder often become anxious and self-conscious in social situations, experiencing symptoms such as rapid heartbeat and trembling. Treatment options include medicines and therapy.",
+    "aliases": [
+      "Social phobia"
+    ],
+    "category": "Psychiatric"
+  },
+  "cond_000093": {
+    "condition": "Obsessive-compulsive disorder",
+    "summary": "Obsessive-compulsive disorder (OCD) is a mental disorder characterized by recurring, intrusive thoughts (obsessions) and repetitive behaviors (compulsions) that interfere with an individual's daily life. These symptoms can cause significant anxiety and distress, and can be challenging to control or stop. Treatment options, such as cognitive behavioral therapy (CBT) and medication, are available to help manage OCD symptoms.",
+    "aliases": [
+      "OCD"
+    ],
+    "category": "Psychiatric"
+  },
+  "cond_000094": {
+    "condition": "Post-traumatic stress disorder",
+    "summary": "If you experience or witness a traumatic event, such as a car accident or a violent attack, you may develop PTSD. This mental health condition causes you to feel stressed and frightened for a long time after the event, even if the danger has passed. Symptoms can include flashbacks, nightmares, and trouble sleeping or concentrating.",
+    "aliases": [
+      "PTSD"
+    ],
+    "category": "Psychiatric"
+  },
+  "cond_000095": {
+    "condition": "Bipolar disorder",
+    "summary": "Bipolar disorder is a mood disorder characterized by intense mood swings, including manic episodes, depressive episodes, and mixed episodes. It can cause changes in behavior, energy levels, and activity levels. Treatment for bipolar disorder typically involves a combination of medication, psychotherapy, and lifestyle changes to manage symptoms.",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  "cond_000096": {
+    "condition": "Schizophrenia",
+    "summary": "Schizophrenia is a serious brain illness that can cause hallucinations, delusions, and trouble organizing thoughts. It can also affect a person's ability to show emotions and function normally, making it difficult to keep a job or take care of themselves. The symptoms of schizophrenia can vary widely and are often influenced by a combination of genetic, environmental, and brain chemistry factors.",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  "cond_000097": {
+    "condition": "Alcohol use disorder",
+    "summary": "Alcohol use disorder (AUD) is a disease characterized by strong cravings, loss of control, and negative emotional states. It can range from mild to severe symptoms, including increased risk of certain cancers, liver diseases, and damage to the brain and other organs. AUD can be diagnosed by identifying two or more of the following symptoms, which may indicate a need for evaluation and treatment.",
+    "aliases": [
+      "Alcoholism"
+    ],
+    "category": "Psychiatric"
+  },
+  "cond_000098": {
+    "condition": "Opioid use disorder",
+    "summary": "If you're using opioids regularly, you may be at risk for opioid use disorder, a condition that can cause problems in your daily life and lead to withdrawal symptoms if you stop taking the drug. Treatment for opioid use disorder typically includes medication, counseling, and behavioral therapies that can help you manage cravings and build healthy habits.",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  "cond_000099": {
+    "condition": "Insomnia",
+    "summary": "Insomnia is a common sleep disorder that can cause difficulty falling asleep, staying asleep, or both, resulting in inadequate or poor-quality sleep. It can be acute (short-term) or chronic (ongoing), with chronic cases often being secondary to other underlying medical conditions, stress, or lifestyle factors. Insomnia can affect anyone, but it is more common in women, older adults, and those with stress, depression, or an inactive lifestyle.",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  "cond_000100": {
+    "condition": "Attention-deficit/hyperactivity disorder",
+    "summary": "ADHD is a neurodevelopmental disorder that affects how people pay attention, control their impulses, and stay active. There are three main types of ADHD: mostly inattentive, mostly hyperactive-impulsive, and combined, each with different symptoms that can impact daily life. Treatment for ADHD typically involves a combination of medicines, psychotherapy, and lifestyle changes, such as healthy eating and exercise, to help manage symptoms and improve functioning.",
+    "aliases": [
+      "ADHD"
+    ],
+    "category": "Psychiatric"
+  },
+  "cond_000101": {
+    "condition": "Gastroesophageal reflux disease",
+    "summary": "Gastroesophageal reflux disease (GERD) is a chronic condition where the muscle at the end of the esophagus fails to close properly, allowing stomach contents to flow back up and irritate the esophagus. This can cause discomfort and lead to other health problems if left untreated. GERD can occur in people of all ages, including infants and children, and can be triggered by various factors such as obesity, smoking, and certain foods.",
+    "aliases": [
+      "GERD",
+      "Acid reflux"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000102": {
+    "condition": "Peptic ulcer disease",
+    "summary": "A peptic ulcer is a sore in the lining of the stomach or duodenum that causes burning stomach pain. The most common causes are infection with Helicobacter pylori bacteria and long-term use of nonsteroidal anti-inflammatory medicines. Untreated peptic ulcers can worsen and may require treatment with medicines or antibiotics, or even surgery.",
+    "aliases": [
+      "PUD"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000103": {
+    "condition": "Gastritis",
+    "summary": "Gastritis is a common stomach condition that can be relieved with over-the-counter medicines and lifestyle changes, such as avoiding fatty foods or eating more slowly. It can cause symptoms like indigestion and heartburn, which can be managed with medication and dietary changes. In severe cases, gastritis may require medical attention.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000104": {
+    "condition": "Helicobacter pylori infection",
+    "summary": "Helicobacter pylori infection is a type of bacteria that causes stomach problems, including peptic ulcers and gastritis. Most people get infected with H. pylori as a child and may not show symptoms, but it can lead to inflammation and other issues.",
+    "aliases": [
+      "H. pylori"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000105": {
+    "condition": "Irritable bowel syndrome",
+    "summary": "Irritable bowel syndrome (IBS) is a gastrointestinal disorder that affects the large intestine, causing symptoms such as abdominal cramping, bloating, and changes in bowel habits. IBS can lead to varying bowel patterns, including constipation, diarrhea, or alternating between the two. Fortunately, IBS does not cause damage to the intestines.",
+    "aliases": [
+      "IBS"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000106": {
+    "condition": "Inflammatory bowel disease",
+    "summary": "Crohn's disease is a long-lasting condition that causes inflammation in your digestive tract, which can lead to symptoms like diarrhea, stomach pain, and weight loss. The exact cause is unknown, but it may be related to an autoimmune reaction or genetics. Certain factors like family history, smoking, and specific medicines can increase your risk of developing the disease.",
+    "aliases": [
+      "IBD"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000107": {
+    "condition": "Crohn disease",
+    "summary": "Crohn's disease is a chronic inflammatory bowel disease that causes inflammation in the digestive tract, affecting any part of it, but usually the small intestine and large intestine. The exact cause of Crohn's disease is unknown, but it is believed to be an autoimmune reaction or may run in families. Symptoms include diarrhea, abdominal pain, and weight loss, and can be managed with medications, bowel rest, and in severe cases, surgery.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000108": {
+    "condition": "Ulcerative colitis",
+    "summary": "Ulcerative colitis is a chronic condition characterized by inflammation and ulcers in the rectum and colon. It can cause a range of symptoms, including abdominal pain, diarrhea, and weight loss. In severe cases, it may require surgical removal of the colon.",
+    "aliases": [
+      "UC"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000109": {
+    "condition": "Celiac disease",
+    "summary": "Celiac disease is a chronic condition that damages the small intestine, preventing your body from absorbing essential nutrients from food. This damage is triggered by eating foods that contain gluten, a protein found in wheat, barley, and rye. If left untreated, celiac disease can lead to malnutrition, weight loss, and other serious health problems.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000110": {
+    "condition": "Diverticulosis",
+    "summary": "Diverticulosis is a condition where small pouches called diverticula form in the lower part of the colon, but often people don't experience any symptoms. However, in some cases, the pouches can become inflamed, leading to diverticulitis, which can cause severe abdominal pain, fever, and other symptoms. Certain lifestyle factors, such as a diet low in fiber and high in red meat, lack of physical activity, and obesity, may increase the risk of developing diverticulosis and diverticulitis.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000111": {
+    "condition": "Diverticulitis",
+    "summary": "Diverticulitis is a condition where small pouches in the colon, called diverticula, become inflamed. This can cause symptoms like severe abdominal pain, fever, and nausea, and can lead to serious complications if not treated.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000112": {
+    "condition": "Constipation",
+    "summary": "Constipation is characterized by infrequent bowel movements, typically fewer than three per week, with hard and dry stool that can be painful to pass. Almost everyone experiences constipation at some point, and in most cases, it is a short-term condition. Maintaining a healthy diet rich in fiber, staying hydrated, and exercising regularly can help prevent constipation.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000113": {
+    "condition": "Diarrhea",
+    "summary": "Diarrhea is a condition characterized by loose, watery stools. It can be caused by a variety of factors, including bacteria, viruses, parasites, and food intolerances. If left untreated, diarrhea can lead to dehydration and potentially serious complications, especially in vulnerable populations such as young children, older adults, and people with weakened immune systems.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000114": {
+    "condition": "Hemorrhoids",
+    "summary": "Hemorrhoids are swollen, inflamed veins around the anus or lower part of the rectum, typically caused by excessive pressure on the veins, which can be triggered by straining during bowel movements, sitting for long periods, or chronic constipation. Symptoms of hemorrhoids can vary depending on the type, with external hemorrhoids causing anal itching, lumps, and pain, while internal hemorrhoids may cause bleeding and prolapse. Treating hemorrhoids at home can often alleviate symptoms, and in severe cases, medical procedures or surgery may be necessary.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000115": {
+    "condition": "Anal fissure",
+    "summary": "An anal fissure is a small tear in the lining of the anus, causing pain and bleeding during or after bowel movements. It can be painful and may be accompanied by bleeding, itching, or swelling. Treatment typically involves self-care measures, such as applying warm compresses and taking pain relievers, under the guidance of a healthcare provider.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000116": {
+    "condition": "Appendicitis",
+    "summary": "Appendicitis is a medical emergency that occurs when a blockage inside the appendix causes inflammation, leading to increased pressure and problems with blood flow. The condition is characterized by severe abdominal pain on the right side, which worsens over time. Untreated appendicitis can lead to the spread of infection and peritonitis.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000117": {
+    "condition": "Cholelithiasis",
+    "summary": "Cholelithiasis is a condition where the flow of bile through the bile ducts is blocked, typically by a gallstone. This blockage can cause symptoms such as nausea, vomiting, and abdominal pain. The formation of gallstones is often associated with factors like age, weight, and certain ethnic groups.",
+    "aliases": [
+      "Gallstones"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000118": {
+    "condition": "Cholecystitis",
+    "summary": "Cholecystitis is inflammation of the gallbladder, often caused by a gallstone blocking the flow of bile. The condition can lead to severe abdominal pain, which may radiate to the right shoulder. Removing the gallbladder, also known as cholecystectomy, is a common treatment option for cholecystitis.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000119": {
+    "condition": "Pancreatitis",
+    "summary": "Pancreatitis is inflammation of the pancreas, which can be acute or chronic, and can lead to serious complications. Acute pancreatitis typically occurs suddenly and can be treated with hospitalization for fluids, antibiotics, and pain relief, often due to gallstones. Chronic pancreatitis, on the other hand, is a long-term condition that worsens over time, often caused by heavy alcohol use, and requires ongoing management with enzymes, nutritional support, and lifestyle changes.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000120": {
+    "condition": "Hepatitis B",
+    "summary": "Hepatitis B is a viral infection that causes inflammation of the liver, leading to damage and potentially severe health problems. If left untreated, chronic hepatitis B can lead to cirrhosis, liver cancer, and liver failure. A vaccine is available to prevent hepatitis B infection, and early treatment can help manage symptoms and prevent long-term damage.",
+    "aliases": [
+      "HBV"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000121": {
+    "condition": "Hepatitis C",
+    "summary": "Hepatitis C is a type of viral hepatitis that can cause inflammation of the liver, leading to damage and scarring. It can be chronic and may lead to liver cancer, cirrhosis, and liver failure if left untreated. Symptoms can vary, but often, people with hepatitis C do not experience noticeable symptoms until complications develop.",
+    "aliases": [
+      "HCV"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000122": {
+    "condition": "Nonalcoholic fatty liver disease",
+    "summary": "NAFLD is a condition where fat builds up in your liver, but it's not caused by heavy drinking. There are two main types: Nonalcoholic Fatty Liver Disease (NAFLD) and Nonalcoholic Steatohepatitis (NASH). NAFLD is more common in people who are overweight or have type 2 diabetes, and it can lead to serious health problems if not treated.",
+    "aliases": [
+      "NAFLD",
+      "MASLD"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000123": {
+    "condition": "Cirrhosis",
+    "summary": "Cirrhosis is a condition where the liver becomes scarred due to injury or long-term disease, leading to a loss of its normal functions. This scarring can cause various complications, including easy bruising, swelling, and sensitivity to medications. If left untreated, cirrhosis can lead to severe liver damage, kidney failure, and even liver cancer.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000124": {
+    "condition": "Lactose intolerance",
+    "summary": "Lactose intolerance occurs when the body is unable to digest lactose, a sugar found in milk and foods made with milk. This can lead to uncomfortable symptoms such as gas, diarrhea, and stomach swelling. A blood, breath, or stool test can help diagnose lactose intolerance, which is not a serious condition and can often be managed with dietary changes or supplements.",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  "cond_000125": {
+    "condition": "Gastroenteritis",
+    "summary": "Gastroenteritis is an inflammation of the stomach and intestines, often caused by viruses, bacteria, or parasites, leading to symptoms like vomiting, diarrhea, and abdominal pain. The condition is usually not serious in healthy individuals but can lead to dehydration or severe symptoms in certain populations, such as pregnant women, older adults, and those with weakened immune systems. Treatment typically involves rest, fluids, and electrolytes, and may also include medicines to control nausea or vomiting, depending on the severity of symptoms.",
+    "aliases": [
+      "Stomach flu"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000126": {
+    "condition": "Functional dyspepsia",
+    "summary": "Functional dyspepsia is a condition characterized by recurring episodes of indigestion, often accompanied by symptoms such as bloating, nausea, and belching. The condition can be triggered by factors like stress, eating high-fat foods, or consuming too much or too fast. If left untreated, functional dyspepsia may indicate a more serious underlying issue, such as an ulcer or GERD, and should be evaluated by a healthcare provider.",
+    "aliases": [
+      "Irritable dyspepsia"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000127": {
+    "condition": "Colorectal polyps",
+    "summary": "Colorectal polyps are extra pieces of tissue that grow in the large intestine, and most are not cancerous. However, some polyps can turn into cancer or are already cancerous. Regular removal and testing of polyps through a colonoscopy can help prevent the growth of cancerous polyps.",
+    "aliases": [
+      "Colon polyps"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000128": {
+    "condition": "Colorectal cancer",
+    "summary": "Colorectal cancer is a type of cancer that develops in the colon or rectum, which are parts of the digestive system. It's caused by genetic changes that can happen during our lifetime, and certain factors such as age, family history, and lifestyle can increase the risk. Symptoms may include changes in bowel habits, blood in the stool, or unexplained weight loss, but often, there are no symptoms at first.",
+    "aliases": [
+      "Colon cancer"
+    ],
+    "category": "Gastrointestinal"
+  },
+  "cond_000129": {
+    "condition": "Chronic kidney disease",
+    "summary": "Chronic Kidney Disease (CKD) is a condition where the kidneys are damaged and can't filter blood as they should, leading to the buildup of wastes in the body. CKD is often caused by diabetes and high blood pressure, and can lead to kidney failure, which may require dialysis or a kidney transplant. Managing CKD can be achieved through lifestyle changes, such as controlling blood pressure, blood sugar, and salt intake, as well as being physically active and quitting smoking.",
+    "aliases": [
+      "CKD"
+    ],
+    "category": "Renal and Urologic"
+  },
+  "cond_000130": {
+    "condition": "Acute kidney injury",
+    "summary": "Your kidneys play a crucial role in cleaning your blood and making hormones that keep your body healthy. If your kidneys are damaged, they won't work properly, and you may experience waste buildup, high blood pressure, and fluid retention. With proper treatment and lifestyle changes, many people can manage kidney failure and lead active lives.",
+    "aliases": [
+      "AKI"
+    ],
+    "category": "Renal and Urologic"
+  },
+  "cond_000131": {
+    "condition": "Urinary tract infection",
+    "summary": "A urinary tract infection occurs when bacteria enter the urinary system, causing symptoms such as pain or burning when urinating and frequent urination. UTIs are more common in women, and individuals with certain medical conditions, such as diabetes or spinal cord injuries, are at higher risk. Antibiotics are the primary treatment for UTIs.",
+    "aliases": [
+      "UTI"
+    ],
+    "category": "Renal and Urologic"
+  },
+  "cond_000132": {
+    "condition": "Pyelonephritis",
+    "summary": "Pyelonephritis is a type of urinary tract infection that occurs in the kidneys. It can cause symptoms such as pain or burning while urinating, fever, and pressure in the lower belly. If left untreated, pyelonephritis can lead to serious complications.",
+    "aliases": [
+      "Kidney infection"
+    ],
+    "category": "Renal and Urologic"
+  },
+  "cond_000133": {
+    "condition": "Nephrolithiasis",
+    "summary": "Kidney stones, also known as nephrolithiasis, are solid pieces of material that form in the kidney from substances in the urine. If left untreated, kidney stones can get stuck in the urinary tract, blocking the flow of urine and causing severe pain. Certain signs, such as extreme back pain, blood in the urine, or a burning sensation during urination, may indicate the need for medical attention.",
+    "aliases": [
+      "Kidney stones"
+    ],
+    "category": "Renal and Urologic"
+  },
+  "cond_000134": {
+    "condition": "Benign prostatic hyperplasia",
+    "summary": "BPH is a common condition in people over 50 where the prostate gland becomes enlarged, often due to age-related changes in hormones. This enlargement can put pressure on the bladder and urethra, leading to symptoms such as frequent urination and weak urine flow. Treatment options for BPH include lifestyle changes, medications, and medical procedures to alleviate symptoms and improve quality of life.",
+    "aliases": [
+      "BPH"
+    ],
+    "category": "Renal and Urologic"
+  },
+  "cond_000135": {
+    "condition": "Prostatitis",
+    "summary": "Prostatitis is an inflammation of the prostate gland, which can cause swelling, pain, and discomfort. It can be acute, chronic, or asymptomatic, and may be caused by a bacterial infection, nerve damage, or emotional stress. Treatment options vary depending on the type and severity of the condition.",
+    "aliases": [],
+    "category": "Renal and Urologic"
+  },
+  "cond_000136": {
+    "condition": "Urinary incontinence",
+    "summary": "Urinary incontinence is the loss of bladder control, which means you may leak urine when you're stressed, laugh, cough, or even when you're not feeling the urge to go to the bathroom. This condition can be treated with lifestyle changes, exercises to strengthen the pelvic floor muscles, and sometimes medications or medical devices to help manage the symptoms.",
+    "aliases": [],
+    "category": "Renal and Urologic"
+  },
+  "cond_000137": {
+    "condition": "Overactive bladder",
+    "summary": "Overactive bladder is a condition where the bladder squeezes urine out at the wrong time, causing frequent urination and urgency to urinate. This can lead to symptoms such as urinating eight or more times a day or two or more times at night. The cause is often unknown, but nerve problems, excess fluid, or caffeine can trigger the condition.",
+    "aliases": [],
+    "category": "Renal and Urologic"
+  },
+  "cond_000138": {
+    "condition": "Erectile dysfunction",
+    "summary": "Erectile dysfunction is a common condition in men where they struggle to achieve or maintain an erection. It can be a sign of underlying health problems, such as clogged blood vessels or nerve damage from diabetes. If left untreated, these issues may not be addressed.",
+    "aliases": [
+      "ED"
+    ],
+    "category": "Renal and Urologic"
+  },
+  "cond_000139": {
+    "condition": "Chronic prostatitis/chronic pelvic pain syndrome",
+    "summary": "Chronic prostatitis/chronic pelvic pain syndrome is a type of prostatitis characterized by persistent inflammation and pain in the prostate gland. It is the most common type of prostatitis and can be caused by a bacterial infection, nerve damage, or emotional stress. Symptoms may include pain or discomfort in the pelvic area, frequent urination, and weak urine stream.",
+    "aliases": [
+      "CP/CPPS"
+    ],
+    "category": "Renal and Urologic"
+  },
+  "cond_000140": {
+    "condition": "Osteoarthritis",
+    "summary": "Osteoarthritis is a type of arthritis that affects the joints, particularly in the hands, knees, hips, neck, and lower back. The cartilage that cushions the joints breaks down, causing bones to rub together and leading to pain, stiffness, and swelling. It is the most common type of arthritis and can worsen over time, but there are treatments available to manage symptoms and slow its progression.",
+    "aliases": [
+      "Degenerative joint disease"
+    ],
+    "category": "Musculoskeletal"
+  },
+  "cond_000141": {
+    "condition": "Rheumatoid arthritis",
+    "summary": "Rheumatoid arthritis is a chronic condition that causes pain, swelling, and stiffness in your joints. It's an autoimmune disease, meaning your immune system mistakenly attacks the healthy tissues in your joints, leading to inflammation and potential damage. With proper treatment and lifestyle changes, you can manage your symptoms and lead an active life.",
+    "aliases": [
+      "RA"
+    ],
+    "category": "Musculoskeletal"
+  },
+  "cond_000142": {
+    "condition": "Psoriatic arthritis",
+    "summary": "Psoriatic arthritis is a condition that causes joint pain, stiffness, and swelling, often affecting many joints. It is usually mild but can be serious in rare cases. Imaging tests and a physical exam are used to diagnose the condition, for which there is no cure but can be managed with medicines.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000143": {
+    "condition": "Ankylosing spondylitis",
+    "summary": "Ankylosing spondylitis is a type of arthritis that causes inflammation and stiffness in the spine, leading to pain and difficulty moving. Over time, the condition can fuse vertebrae, resulting in a hunched posture. Treatment options may include medication, physical therapy, and surgery to relieve symptoms and slow disease progression.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000144": {
+    "condition": "Gout",
+    "summary": "Gout is a type of inflammatory arthritis that causes sudden, severe pain, swelling, and redness in one or more joints, often in the big toe or lower limbs. It occurs when uric acid builds up in the body due to excessive purine breakdown or impaired uric acid removal by the kidneys. The condition can lead to repeated joint damage and other complications if left untreated.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000145": {
+    "condition": "Pseudogout",
+    "summary": "Pseudogout, also known as calcium pyrophosphate arthritis, is a condition that causes similar symptoms to gout, including intense pain, swelling, and redness in joints, but is caused by a buildup of calcium phosphate rather than uric acid. It can lead to joint damage and misshapen joints if left untreated. Pseudogout can be confused with gout, but the two conditions have distinct causes and treatments.",
+    "aliases": [
+      "CPPD"
+    ],
+    "category": "Musculoskeletal"
+  },
+  "cond_000146": {
+    "condition": "Osteoporosis",
+    "summary": "Osteoporosis is a condition where the bones become weak and brittle, making them more prone to breaks and fractures. This can lead to chronic back pain, curvature of the spine, and loss of height. Typically, treatment involves a combination of lifestyle changes, such as exercise and a balanced diet, and medications to help strengthen bones and prevent fractures.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000147": {
+    "condition": "Osteopenia",
+    "summary": "Osteopenia is a condition characterized by low bone density, which can lead to weaker bones and increased risk of fractures. It is often seen in individuals who have a family history of osteoporosis or low bone mass, or those with certain medical conditions such as rheumatoid arthritis or HIV. Lifestyle factors, including a diet low in calcium and vitamin D, physical inactivity, and smoking, can also contribute to the development of osteopenia.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000148": {
+    "condition": "Low back pain",
+    "summary": "Low back pain is a common medical problem affecting 8 out of 10 people at some point in their lives. It can range from a dull, constant ache to a sudden, sharp pain, and may be acute or chronic in duration. In most cases, low back pain can be managed with over-the-counter pain relievers and rest.",
+    "aliases": [
+      "Back pain"
+    ],
+    "category": "Musculoskeletal"
+  },
+  "cond_000149": {
+    "condition": "Neck pain",
+    "summary": "Neck pain is a common condition that can be caused by various factors, including muscle strain or tension from overuse, awkward sleeping positions, or injuries from falls or accidents. Pain in the neck can radiate to other areas, such as the shoulders, jaw, head, or upper arms. Treatment typically involves self-care measures like applying ice, taking pain relievers, and physical therapy.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000150": {
+    "condition": "Herniated disc",
+    "summary": "A herniated disc occurs when a disk in the spine ruptures, allowing the jelly-like center to leak and irritate nearby nerves. This can lead to sciatica or back pain. Treatment for a herniated disc typically involves rest, pain management, physical therapy, and in some cases, surgery.",
+    "aliases": [
+      "Slipped disc"
+    ],
+    "category": "Musculoskeletal"
+  },
+  "cond_000151": {
+    "condition": "Scoliosis",
+    "summary": "Scoliosis is a condition characterized by a sideways curve of the backbone, typically occurring in late childhood and early teens. It can be more common in girls and may run in families. Symptoms include uneven shoulders and hips, and treatment options vary depending on the severity and age of the individual.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000152": {
+    "condition": "Rotator cuff tear",
+    "summary": "A rotator cuff injury occurs when the group of muscles and tendons that holds your shoulder joint stable become worn down or tear, leading to pain and stiffness in your shoulder. This can happen due to repetitive movements, age, or injuries, and can be treated with rest, ice, pain relievers, physical therapy, and in some cases, surgery. If you experience persistent pain or weakness in your shoulder, it's essential to see a healthcare provider for proper diagnosis and treatment.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000153": {
+    "condition": "Tendinitis",
+    "summary": "endinitis is a condition where the tissue that connects your muscles to your bones becomes severely swollen, causing pain and soreness around a joint. It often occurs after repeated injury to a joint, such as the wrist or ankle, and can be treated with rest, medicine, ice, and other therapies.",
+    "aliases": [
+      "Tendonitis"
+    ],
+    "category": "Musculoskeletal"
+  },
+  "cond_000154": {
+    "condition": "Bursitis",
+    "summary": "Bursitis is an inflammation of a fluid-filled sac that acts as a cushion between bones and other moving parts, typically occurring due to overuse or injury. It often affects the knee or elbow, causing symptoms such as pain and swelling. Treatment typically involves rest, pain relief, and in severe cases, surgery to repair damage.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000155": {
+    "condition": "Plantar fasciitis",
+    "summary": "Plantar fasciitis is a type of inflammation of the tissues surrounding the heel, often caused by excessive stress or strain. This stress can be triggered by various factors such as injuries, poor-fitting shoes, or being overweight. Treatment typically involves rest, medication, exercises, and special shoes.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000156": {
+    "condition": "Tennis elbow",
+    "summary": "Tennis elbow, also known as tendinitis, is a sports injury caused by inflammation or injury to the tendons that attach muscle to bone. Overuse of the elbow can also lead to tendinitis, making it a common condition for athletes and individuals who frequently use their elbows. Treatment depends on the underlying cause of the condition.",
+    "aliases": [
+      "Lateral epicondylitis"
+    ],
+    "category": "Musculoskeletal"
+  },
+  "cond_000157": {
+    "condition": "Golfer's elbow",
+    "summary": "Golfer's elbow is a condition that affects the tendons, causing inflammation or injury, typically resulting from overuse or playing sports such as tennis or golf. It occurs when the tendons that attach muscles to bones become irritated or inflamed. This condition can be treated based on its underlying cause.",
+    "aliases": [
+      "Medial epicondylitis"
+    ],
+    "category": "Musculoskeletal"
+  },
+  "cond_000158": {
+    "condition": "Fibromyalgia",
+    "summary": "Fibromyalgia is a chronic condition that causes widespread pain, fatigue, and other symptoms. The exact cause of fibromyalgia is unknown, but it may be related to differences in how the brain processes pain.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000159": {
+    "condition": "Myofascial pain syndrome",
+    "summary": "Myofascial pain syndrome is a condition characterized by chronic pain and stiffness in the muscles and connective tissue. It shares similar symptoms with fibromyalgia, including widespread pain, fatigue, and sensitivity to various stimuli. Treatment for myofascial pain syndrome typically focuses on relieving pain and promoting relaxation, similar to that used for fibromyalgia.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000160": {
+    "condition": "Fracture",
+    "summary": "A fracture is a break in a bone that can be caused by an injury. It's usually treated with a cast or splint to keep the bone stable while it heals. If the break is severe, surgery may be needed to fix it.",
+    "aliases": [
+      "Broken bone"
+    ],
+    "category": "Musculoskeletal"
+  },
+  "cond_000161": {
+    "condition": "Sprain",
+    "summary": "A sprain occurs when a ligament is stretched or torn, often as a result of a fall, twist, or direct hit. The injury typically causes pain, swelling, bruising, and limited mobility in the affected joint. Symptoms may also include a audible \"pop\" or tear at the time of injury.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000162": {
+    "condition": "Strain",
+    "summary": "A strain is a stretched or torn muscle or tendon that connects muscle to bone. It can occur suddenly or develop over time, often due to twisting or pulling. Symptoms of a strain include pain, muscle spasms, swelling, and trouble moving the affected muscle.",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  "cond_000163": {
+    "condition": "Atopic dermatitis",
+    "summary": "Atopic dermatitis, also known as eczema, is a skin condition that causes dry, itchy skin and rashes, usually on the face, elbows, and hands. It's not contagious and can be triggered by both genetic and environmental factors. With proper treatment, such as medicine, skin care, and avoiding triggers like stress and allergies, it's possible to manage the condition and prevent it from getting worse over time.",
+    "aliases": [
+      "Eczema"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000164": {
+    "condition": "Contact dermatitis",
+    "summary": "Contact dermatitis is a type of rash that causes redness, itching, and sometimes small bumps, typically appearing after touching an irritant such as a chemical or an allergic substance. The condition can range from mild to severe and may take several days to clear up. Treatment options include moisturizers, cortisone creams, and antihistamines to relieve symptoms.",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  "cond_000165": {
+    "condition": "Psoriasis",
+    "summary": "Psoriasis is a skin disease that causes itchy or sore patches of thick, red skin with silvery scales, typically appearing on elbows, knees, scalp, and other areas. The condition is caused by a problem with the immune system, leading to abnormal cell growth and rapid skin cell turnover. Psoriasis can be challenging to diagnose and manage, with symptoms coming and going and exacerbated by factors like infections, stress, and dry skin.",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  "cond_000166": {
+    "condition": "Acne vulgaris",
+    "summary": "Acne vulgaris is a common skin condition that occurs when hair follicles clog, causing pimples. It is more prevalent in teenagers and young adults, and while not serious, can lead to scarring. Hormone changes are thought to play a role in its development, although the exact cause is still unknown.",
+    "aliases": [
+      "Acne"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000167": {
+    "condition": "Rosacea",
+    "summary": "Rosacea is a long-term skin condition that causes redness and pimples, often affecting the face, especially in women and people with fair skin. Symptoms include flushing, acne, a swollen nose, and dry, itchy eyes. While there's no cure, treatments like medicines and surgery can help manage the condition.",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  "cond_000168": {
+    "condition": "Urticaria",
+    "summary": "If you're experiencing red and itchy bumps on your skin, it's likely due to an allergic reaction, which can be caused by a medication, food, infection, or stress. In most cases, hives go away on their own, but if they're severe, you may need medicine or a shot to help manage the symptoms. In rare cases, hives can be life-threatening, so it's essential to seek medical attention if you experience difficulty breathing.",
+    "aliases": [
+      "Hives"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000169": {
+    "condition": "Cellulitis",
+    "summary": "Cellulitis is an infection of the skin and underlying tissues, often caused by group A strep bacteria. Symptoms include fever, swollen glands, and a painful, red rash that may blister and scab. Antibiotics are typically used to treat cellulitis, and treatment can range from oral medication for mild cases to intravenous antibiotics for more severe cases.",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  "cond_000170": {
+    "condition": "Impetigo",
+    "summary": "Impetigo is a skin infection caused by bacteria, typically staph or strep bacteria, which can be contagious. It often starts with red or pimple-like sores on the face, arms, and legs that can spread through contact with an infected person's nasal discharge. Impetigo can be treated with antibiotics.",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  "cond_000171": {
+    "condition": "Tinea pedis",
+    "summary": "Tinea pedis, commonly known as athlete's foot, is a fungal infection that causes itching, burning, and cracked, scaly skin between the toes. It is often spread through contact with damp surfaces, such as showers and locker room floors. Effective prevention measures include keeping feet clean, dry, and cool, and wearing clean socks and flip-flops.",
+    "aliases": [
+      "Athlete's foot"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000172": {
+    "condition": "Onychomycosis",
+    "summary": "Onychomycosis is a common nail condition that affects the toenails and fingernails, caused by bacterial or fungal infections. Healthy nails can be a sign of overall good health, while nail discoloration and changes in growth rate can be indicative of underlying health issues. Proper nail care, including keeping nails clean and dry, can help prevent some types of nail problems.",
+    "aliases": [
+      "Fungal nail infection"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000173": {
+    "condition": "Tinea corporis",
+    "summary": "Tinea corporis, commonly known as ringworm, is a fungal infection that causes a ring-shaped red rash on the skin. It can also appear as itchy, red patches on the head, especially in children, or as an itchy, burning rash in the groin area. Treatment typically involves over-the-counter creams and powders, or prescription medicine in more severe cases.",
+    "aliases": [
+      "Ringworm"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000174": {
+    "condition": "Herpes simplex",
+    "summary": "Herpes simplex is a viral infection that causes symptoms such as cold sores and genital herpes, typically spreading through direct contact. The virus can be particularly dangerous in newborn babies and people with weakened immune systems. There are two types of HSV, with HSV type 2 being the primary cause of genital herpes.",
+    "aliases": [
+      "HSV",
+      "Cold sores",
+      "Genital herpes"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000175": {
+    "condition": "Herpes zoster",
+    "summary": "Shingles is a painful rash that can occur when the varicella-zoster virus, which causes chickenpox, reactivates in your body. You're at risk for shingles if you've had chickenpox or are over 50 years old. The symptoms include burning pain, tingling, and itching, followed by a rash that can be severe and last for several days.",
+    "aliases": [
+      "Shingles"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000176": {
+    "condition": "Warts",
+    "summary": "Warts are growths on the skin caused by an infection with human papillomavirus (HPV). They can appear on various parts of the body, such as fingers, soles of the feet, and genital areas, and can be painful and persistent. Treatment options for warts include chemical skin treatments, freezing, surgery, and laser therapy.",
+    "aliases": [
+      "Verruca"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000177": {
+    "condition": "Vitiligo",
+    "summary": "Vitiligo is a condition that causes white patches on the skin, often appearing in areas exposed to the sun. It occurs when the cells responsible for skin color are destroyed, and it's more common in people with autoimmune diseases. Treatment options for vitiligo include medicines, light therapy, and surgery, which may have varying degrees of effectiveness and potential side effects.",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  "cond_000178": {
+    "condition": "Alopecia areata",
+    "summary": "Alopecia areata is an autoimmune condition that can cause hair loss due to an abnormal immune response. Certain diseases, such as thyroid problems and lupus, can also lead to hair loss. Treatment options vary depending on the underlying cause and may include medicines and hair restoration.",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  "cond_000179": {
+    "condition": "Skin cancer",
+    "summary": "Melanoma is the most serious type of skin cancer, often characterized by a change in the size, shape, color, or feel of a mole. The condition can appear as a new mole with a black or black-blue area, and may also be irregular in shape and color. Early detection through the \"ABCDE\" method, which checks for asymmetry, irregular borders, uneven color, changes in diameter, and evolving changes, is crucial for effective treatment.",
+    "aliases": [
+      "Melanoma",
+      "Basal cell carcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000180": {
+    "condition": "Pressure ulcer",
+    "summary": "Pressure ulcers are damaged areas of skin caused by prolonged pressure, often forming over bony areas such as the ankles, back, and hips. They can become serious infections, some of which are life-threatening, and are common among bedridden or wheelchair users. Early treatment is recommended for advanced pressure ulcers, as they can be slow to heal.",
+    "aliases": [
+      "Bed sore"
+    ],
+    "category": "Dermatologic"
+  },
+  "cond_000181": {
+    "condition": "Sepsis",
+    "summary": "Sepsis is a life-threatening medical emergency where your body overreacts to an infection, which can cause tissue damage and organ failure. It's essential to get medical care right away if you suspect you have sepsis or if your infection isn't getting better.",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  "cond_000182": {
+    "condition": "Clostridioides difficile infection",
+    "summary": "C. diff is a type of bacteria that can cause diarrhea and other intestinal problems. You can get C.",
+    "aliases": [
+      "C. diff"
+    ],
+    "category": "Infectious Diseases"
+  },
+  "cond_000183": {
+    "condition": "Lyme disease",
+    "summary": "Lyme disease is a bacterial infection that can cause symptoms such as a rash, fever, headache, and fatigue, which can be treated with antibiotics. If left untreated, it can spread to joints, heart, and nervous system, leading to severe symptoms. Prompt treatment is essential to prevent long-term complications.",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  "cond_000184": {
+    "condition": "Mononucleosis",
+    "summary": "Mononucleosis, commonly known as mono, is a viral infection caused by the Epstein-Barr virus (EBV) that can be spread through body fluids, saliva, and other contact. The symptoms of mono typically start four to six weeks after infection and can include extreme fatigue, fever, sore throat, and swollen lymph glands. Treatment for mono usually involves self-care measures such as drinking plenty of fluids, getting plenty of rest, and taking over-the-counter medications for pain and fever.",
+    "aliases": [
+      "Mono",
+      "EBV infection"
+    ],
+    "category": "Infectious Diseases"
+  },
+  "cond_000185": {
+    "condition": "Bacterial vaginosis",
+    "summary": "Bacterial vaginosis is an imbalance of bacteria in the vagina that can cause symptoms such as a thin white or gray vaginal discharge and a strong fish-like odor. It is often treated with antibiotics, and in some cases, hormonal changes can also contribute to the development of vaginitis. Untreated bacterial vaginosis can increase the risk of HIV or other STIs.",
+    "aliases": [
+      "BV"
+    ],
+    "category": "Infectious Diseases"
+  },
+  "cond_000186": {
+    "condition": "Candidiasis",
+    "summary": "Candidiasis, a type of yeast infection, can cause a thick, white discharge from the vagina that resembles cottage cheese. This discharge can be watery and often has no smell. Additionally, yeast infections typically cause itching and redness in the vagina and vulva.",
+    "aliases": [
+      "Yeast infection"
+    ],
+    "category": "Infectious Diseases"
+  },
+  "cond_000187": {
+    "condition": "Sexually transmitted infection",
+    "summary": "Sexually transmitted infections (STIs) are infections that are passed from one person to another through sexual contact. If left untreated, an STI can develop into a serious disease, such as HIV or gonorrhea. Regular testing and safe sex practices, such as using condoms and limiting the number of sex partners, can help prevent STIs.",
+    "aliases": [
+      "STI",
+      "STD"
+    ],
+    "category": "Infectious Diseases"
+  },
+  "cond_000188": {
+    "condition": "Chlamydia infection",
+    "summary": "Chlamydia is a common sexually transmitted infection (STI) caused by the bacteria Chlamydia trachomatis. If left untreated, it can cause serious health problems, including pelvic inflammatory disease (PID) in women and permanent damage to their reproductive system. Antibiotics can cure chlamydia, but it's essential to complete the full course of treatment to prevent re-infection.",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  "cond_000189": {
+    "condition": "Gonorrhea",
+    "summary": "Gonorrhea is a sexually transmitted infection (STI) that can be caused by bacteria and can infect the genital tract, mouth, or anus. It can cause symptoms such as pain when urinating, discharge, and bleeding, especially in women, and can lead to complications like pelvic inflammatory disease and infertility if left untreated. Gonorrhea can be treated with antibiotics, but drug-resistant strains are increasing, making it more challenging to cure.",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  "cond_000190": {
+    "condition": "Syphilis",
+    "summary": "Syphilis is a bacterial infection that can cause a single, small, painless sore, and if left untreated, can lead to a non-itchy skin rash and serious health complications. It is easily cured with antibiotics if caught early, but can be spread through sexual contact, particularly with someone who has a sore. If left untreated, syphilis can cause complications, including loss of a baby, and in rare cases, even death.",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  "cond_000191": {
+    "condition": "Trichomoniasis",
+    "summary": "Trichomoniasis is a sexually transmitted infection caused by a parasite that can lead to symptoms such as vaginal discharge, pain, and burning sensations. Most infected individuals, especially men, do not experience symptoms, but treatment with antibiotics can help prevent the spread of the infection. Using latex condoms can reduce the risk of infection, but is not a guarantee of prevention.",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  "cond_000192": {
+    "condition": "Human immunodeficiency virus infection",
+    "summary": "Having HIV means your immune system is weakened by a virus that destroys a type of white blood cell. This makes you more susceptible to other infections and illnesses. If left untreated, the virus can progress to AIDS, a condition where your immune system is severely damaged, making you more prone to opportunistic infections.",
+    "aliases": [
+      "HIV"
+    ],
+    "category": "Infectious Diseases"
+  },
+  "cond_000193": {
+    "condition": "Acquired immunodeficiency syndrome",
+    "summary": "AIDS is the final stage of HIV infection, where the body's immune system is badly damaged due to the virus. If left untreated, HIV will weaken the immune system, leading to opportunistic infections, which are infections that the body can't fight off.",
+    "aliases": [
+      "AIDS"
+    ],
+    "category": "Infectious Diseases"
+  },
+  "cond_000194": {
+    "condition": "Malaria",
+    "summary": "Malaria is a serious disease caused by a parasite that you get from an infected mosquito bite. If you travel to countries with warm climates, you're at risk of getting malaria, and it can be life-threatening if not treated. But with the right treatment and preventive measures, such as taking medication, wearing insect repellent, and covering up, you can protect yourself from malaria.",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  "cond_000195": {
+    "condition": "Giardiasis",
+    "summary": "Giardiasis is an illness caused by the parasite Giardia intestinalis, which can be found in contaminated soil, food, and water. The main symptoms of giardia infection include diarrhea, stomach cramps, and weight loss, which can last for two to six weeks. Stool sample tests can diagnose giardiasis, and treatment typically involves medication.",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  "cond_000196": {
+    "condition": "Helminth infection",
+    "summary": "A helminth infection is a parasitic disease caused by worm-like organisms that can be transmitted through contaminated food, water, or contact with infected individuals. These infections can be easily treated with medicine, but some types, like malaria, are common in other parts of the world. Prevention is key, especially for travelers, and drinking safe water is crucial to avoiding transmission.",
+    "aliases": [
+      "Intestinal worms"
+    ],
+    "category": "Infectious Diseases"
+  },
+  "cond_000197": {
+    "condition": "Iron deficiency anemia",
+    "summary": "Iron deficiency anemia is a condition where the blood does not carry enough oxygen due to insufficient iron levels. Iron is essential for producing hemoglobin, a protein that gives blood its red color and carries oxygen throughout the body. Without enough iron, the body's ability to transport oxygen is impaired.",
+    "aliases": [],
+    "category": "Hematologic and Oncologic"
+  },
+  "cond_000198": {
+    "condition": "Anemia of chronic disease",
+    "summary": "If you have Anemia of Chronic Disease, it means your body isn't making enough hemoglobin, a protein that carries oxygen, due to an underlying condition like a chronic illness or a diet lacking essential nutrients. This can lead to feelings of tiredness, dizziness, and shortness of breath. Your doctor will perform blood tests and a physical exam to diagnose the condition, and treatment will depend on the underlying cause.",
+    "aliases": [],
+    "category": "Hematologic and Oncologic"
+  },
+  "cond_000199": {
+    "condition": "Vitamin B12 deficiency",
+    "summary": "A Vitamin B12 deficiency can lead to anemia, causing the body to produce red blood cells that are not able to carry enough oxygen. This is because vitamin B12 is essential for the production of hemoglobin, an iron-rich protein that gives blood its red color. Without sufficient vitamin B12, the body's red blood cells may not be able to function properly, resulting in anemia.",
+    "aliases": [
+      "Cobalamin deficiency"
+    ],
+    "category": "Hematologic and Oncologic"
+  },
+  "cond_000200": {
+    "condition": "Folate deficiency",
+    "summary": "Folic acid deficiency can lead to problems with cell growth and development, particularly in the formation of a healthy new cell. Women who are planning to become pregnant are at risk of folate deficiency, as it can prevent major birth defects of the baby's brain or spine. Folic acid can be found in leafy green vegetables, fruits, and other foods, or taken as a dietary supplement.",
+    "aliases": [],
+    "category": "Hematologic and Oncologic"
+  }
+}

@@ -1,0 +1,1607 @@
+{
+  "schema_version": "1.0",
+  "source_intent": "Seed list for Medline enrichment",
+  "conditions": [
+    {
+      "id": "cond_000001",
+      "category": "Cardiovascular",
+      "condition": "Hypertension",
+      "aliases": ["High blood pressure", "HTN"],
+      "query_terms": ["Hypertension", "High blood pressure"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000002",
+      "category": "Cardiovascular",
+      "condition": "Hypotension",
+      "aliases": ["Low blood pressure"],
+      "query_terms": ["Hypotension", "Low blood pressure"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000003",
+      "category": "Cardiovascular",
+      "condition": "Hyperlipidemia",
+      "aliases": ["High cholesterol", "Dyslipidemia"],
+      "query_terms": ["Hyperlipidemia", "High cholesterol"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000004",
+      "category": "Cardiovascular",
+      "condition": "Coronary artery disease",
+      "aliases": ["CAD", "Ischemic heart disease"],
+      "query_terms": ["Coronary artery disease", "Ischemic heart disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000005",
+      "category": "Cardiovascular",
+      "condition": "Stable angina",
+      "aliases": ["Angina pectoris"],
+      "query_terms": ["Stable angina", "Angina pectoris"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000006",
+      "category": "Cardiovascular",
+      "condition": "Acute coronary syndrome",
+      "aliases": ["ACS"],
+      "query_terms": ["Acute coronary syndrome"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000007",
+      "category": "Cardiovascular",
+      "condition": "Myocardial infarction",
+      "aliases": ["Heart attack", "MI"],
+      "query_terms": ["Myocardial infarction", "Heart attack"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000008",
+      "category": "Cardiovascular",
+      "condition": "Heart failure",
+      "aliases": ["Congestive heart failure", "CHF"],
+      "query_terms": ["Heart failure", "Congestive heart failure"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000009",
+      "category": "Cardiovascular",
+      "condition": "Cardiomyopathy",
+      "aliases": [],
+      "query_terms": ["Cardiomyopathy"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000010",
+      "category": "Cardiovascular",
+      "condition": "Atrial fibrillation",
+      "aliases": ["AFib"],
+      "query_terms": ["Atrial fibrillation"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000011",
+      "category": "Cardiovascular",
+      "condition": "Atrial flutter",
+      "aliases": [],
+      "query_terms": ["Atrial flutter"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000012",
+      "category": "Cardiovascular",
+      "condition": "Supraventricular tachycardia",
+      "aliases": ["SVT"],
+      "query_terms": ["Supraventricular tachycardia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000013",
+      "category": "Cardiovascular",
+      "condition": "Ventricular tachycardia",
+      "aliases": ["VT"],
+      "query_terms": ["Ventricular tachycardia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000014",
+      "category": "Cardiovascular",
+      "condition": "Bradycardia",
+      "aliases": [],
+      "query_terms": ["Bradycardia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000015",
+      "category": "Cardiovascular",
+      "condition": "Peripheral artery disease",
+      "aliases": ["PAD"],
+      "query_terms": ["Peripheral artery disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000016",
+      "category": "Cardiovascular",
+      "condition": "Deep vein thrombosis",
+      "aliases": ["DVT"],
+      "query_terms": ["Deep vein thrombosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000017",
+      "category": "Cardiovascular",
+      "condition": "Pulmonary embolism",
+      "aliases": ["PE"],
+      "query_terms": ["Pulmonary embolism"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000018",
+      "category": "Cardiovascular",
+      "condition": "Aortic aneurysm",
+      "aliases": [],
+      "query_terms": ["Aortic aneurysm"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000019",
+      "category": "Cardiovascular",
+      "condition": "Aortic dissection",
+      "aliases": [],
+      "query_terms": ["Aortic dissection"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000020",
+      "category": "Cardiovascular",
+      "condition": "Valvular heart disease",
+      "aliases": ["Heart valve disease"],
+      "query_terms": ["Valvular heart disease", "Heart valve disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000021",
+      "category": "Cardiovascular",
+      "condition": "Aortic stenosis",
+      "aliases": [],
+      "query_terms": ["Aortic stenosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000022",
+      "category": "Cardiovascular",
+      "condition": "Mitral regurgitation",
+      "aliases": [],
+      "query_terms": ["Mitral regurgitation"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000023",
+      "category": "Cardiovascular",
+      "condition": "Endocarditis",
+      "aliases": ["Infective endocarditis"],
+      "query_terms": ["Endocarditis", "Infective endocarditis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000024",
+      "category": "Cardiovascular",
+      "condition": "Pericarditis",
+      "aliases": [],
+      "query_terms": ["Pericarditis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000025",
+      "category": "Cardiovascular",
+      "condition": "Cardiac tamponade",
+      "aliases": [],
+      "query_terms": ["Cardiac tamponade"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000026",
+      "category": "Cardiovascular",
+      "condition": "Raynaud phenomenon",
+      "aliases": ["Raynaud's"],
+      "query_terms": ["Raynaud phenomenon"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000027",
+      "category": "Cardiovascular",
+      "condition": "Orthostatic hypotension",
+      "aliases": [],
+      "query_terms": ["Orthostatic hypotension"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000028",
+      "category": "Cardiovascular",
+      "condition": "Syncope",
+      "aliases": ["Fainting"],
+      "query_terms": ["Syncope", "Fainting"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000029",
+      "category": "Respiratory",
+      "condition": "Asthma",
+      "aliases": [],
+      "query_terms": ["Asthma"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000030",
+      "category": "Respiratory",
+      "condition": "Exercise-induced bronchoconstriction",
+      "aliases": ["Exercise-induced asthma"],
+      "query_terms": ["Exercise-induced bronchoconstriction", "Exercise-induced asthma"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000031",
+      "category": "Respiratory",
+      "condition": "Chronic obstructive pulmonary disease",
+      "aliases": ["COPD"],
+      "query_terms": ["Chronic obstructive pulmonary disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000032",
+      "category": "Respiratory",
+      "condition": "Chronic bronchitis",
+      "aliases": [],
+      "query_terms": ["Chronic bronchitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000033",
+      "category": "Respiratory",
+      "condition": "Emphysema",
+      "aliases": [],
+      "query_terms": ["Emphysema"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000034",
+      "category": "Respiratory",
+      "condition": "Pneumonia",
+      "aliases": [],
+      "query_terms": ["Pneumonia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000035",
+      "category": "Respiratory",
+      "condition": "Acute bronchitis",
+      "aliases": [],
+      "query_terms": ["Acute bronchitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000036",
+      "category": "Respiratory",
+      "condition": "Upper respiratory infection",
+      "aliases": ["URI", "Common cold"],
+      "query_terms": ["Upper respiratory infection", "Common cold"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000037",
+      "category": "Respiratory",
+      "condition": "Influenza",
+      "aliases": ["Flu"],
+      "query_terms": ["Influenza", "Flu"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000038",
+      "category": "Respiratory",
+      "condition": "COVID-19",
+      "aliases": ["SARS-CoV-2 infection"],
+      "query_terms": ["COVID-19", "SARS-CoV-2"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000039",
+      "category": "Respiratory",
+      "condition": "Tuberculosis",
+      "aliases": ["TB"],
+      "query_terms": ["Tuberculosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000040",
+      "category": "Respiratory",
+      "condition": "Sinusitis",
+      "aliases": ["Rhinosinusitis"],
+      "query_terms": ["Sinusitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000041",
+      "category": "Respiratory",
+      "condition": "Allergic rhinitis",
+      "aliases": ["Hay fever"],
+      "query_terms": ["Allergic rhinitis", "Hay fever"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000042",
+      "category": "Respiratory",
+      "condition": "Obstructive sleep apnea",
+      "aliases": ["OSA"],
+      "query_terms": ["Obstructive sleep apnea"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000043",
+      "category": "Respiratory",
+      "condition": "Laryngitis",
+      "aliases": [],
+      "query_terms": ["Laryngitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000044",
+      "category": "Respiratory",
+      "condition": "Croup",
+      "aliases": ["Laryngotracheobronchitis"],
+      "query_terms": ["Croup"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000045",
+      "category": "Respiratory",
+      "condition": "Pleural effusion",
+      "aliases": [],
+      "query_terms": ["Pleural effusion"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000046",
+      "category": "Respiratory",
+      "condition": "Pneumothorax",
+      "aliases": ["Collapsed lung"],
+      "query_terms": ["Pneumothorax", "Collapsed lung"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000047",
+      "category": "Respiratory",
+      "condition": "Interstitial lung disease",
+      "aliases": ["ILD"],
+      "query_terms": ["Interstitial lung disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000048",
+      "category": "Respiratory",
+      "condition": "Sarcoidosis",
+      "aliases": [],
+      "query_terms": ["Sarcoidosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000049",
+      "category": "Endocrine and Metabolic",
+      "condition": "Type 1 diabetes mellitus",
+      "aliases": ["T1DM", "Type 1 diabetes"],
+      "query_terms": ["Type 1 diabetes mellitus", "Type 1 diabetes"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000050",
+      "category": "Endocrine and Metabolic",
+      "condition": "Type 2 diabetes mellitus",
+      "aliases": ["T2DM", "Type 2 diabetes"],
+      "query_terms": ["Type 2 diabetes mellitus", "Type 2 diabetes"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000051",
+      "category": "Endocrine and Metabolic",
+      "condition": "Prediabetes",
+      "aliases": [],
+      "query_terms": ["Prediabetes"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000052",
+      "category": "Endocrine and Metabolic",
+      "condition": "Hypoglycemia",
+      "aliases": ["Low blood sugar"],
+      "query_terms": ["Hypoglycemia", "Low blood sugar"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000053",
+      "category": "Endocrine and Metabolic",
+      "condition": "Diabetic ketoacidosis",
+      "aliases": ["DKA"],
+      "query_terms": ["Diabetic ketoacidosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000054",
+      "category": "Endocrine and Metabolic",
+      "condition": "Hypothyroidism",
+      "aliases": ["Underactive thyroid"],
+      "query_terms": ["Hypothyroidism", "Underactive thyroid"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000055",
+      "category": "Endocrine and Metabolic",
+      "condition": "Hyperthyroidism",
+      "aliases": ["Overactive thyroid"],
+      "query_terms": ["Hyperthyroidism", "Overactive thyroid"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000056",
+      "category": "Endocrine and Metabolic",
+      "condition": "Hashimoto thyroiditis",
+      "aliases": [],
+      "query_terms": ["Hashimoto thyroiditis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000057",
+      "category": "Endocrine and Metabolic",
+      "condition": "Graves disease",
+      "aliases": [],
+      "query_terms": ["Graves disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000058",
+      "category": "Endocrine and Metabolic",
+      "condition": "Thyroid nodule",
+      "aliases": [],
+      "query_terms": ["Thyroid nodule"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000059",
+      "category": "Endocrine and Metabolic",
+      "condition": "Goiter",
+      "aliases": [],
+      "query_terms": ["Goiter"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000060",
+      "category": "Endocrine and Metabolic",
+      "condition": "Polycystic ovary syndrome",
+      "aliases": ["PCOS"],
+      "query_terms": ["Polycystic ovary syndrome"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000061",
+      "category": "Endocrine and Metabolic",
+      "condition": "Cushing syndrome",
+      "aliases": [],
+      "query_terms": ["Cushing syndrome"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000062",
+      "category": "Endocrine and Metabolic",
+      "condition": "Addison disease",
+      "aliases": ["Primary adrenal insufficiency"],
+      "query_terms": ["Addison disease", "Adrenal insufficiency"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000063",
+      "category": "Endocrine and Metabolic",
+      "condition": "Hyperparathyroidism",
+      "aliases": [],
+      "query_terms": ["Hyperparathyroidism"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000064",
+      "category": "Endocrine and Metabolic",
+      "condition": "Hypoparathyroidism",
+      "aliases": [],
+      "query_terms": ["Hypoparathyroidism"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000065",
+      "category": "Endocrine and Metabolic",
+      "condition": "Vitamin D deficiency",
+      "aliases": [],
+      "query_terms": ["Vitamin D deficiency"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000066",
+      "category": "Endocrine and Metabolic",
+      "condition": "Obesity",
+      "aliases": [],
+      "query_terms": ["Obesity"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000067",
+      "category": "Endocrine and Metabolic",
+      "condition": "Metabolic syndrome",
+      "aliases": [],
+      "query_terms": ["Metabolic syndrome"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000068",
+      "category": "Endocrine and Metabolic",
+      "condition": "Hyperuricemia",
+      "aliases": [],
+      "query_terms": ["Hyperuricemia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000069",
+      "category": "Neurological",
+      "condition": "Migraine",
+      "aliases": [],
+      "query_terms": ["Migraine"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000070",
+      "category": "Neurological",
+      "condition": "Tension-type headache",
+      "aliases": ["Tension headache"],
+      "query_terms": ["Tension-type headache", "Tension headache"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000071",
+      "category": "Neurological",
+      "condition": "Cluster headache",
+      "aliases": [],
+      "query_terms": ["Cluster headache"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000072",
+      "category": "Neurological",
+      "condition": "Epilepsy",
+      "aliases": ["Seizure disorder"],
+      "query_terms": ["Epilepsy"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000073",
+      "category": "Neurological",
+      "condition": "Febrile seizure",
+      "aliases": [],
+      "query_terms": ["Febrile seizure"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000074",
+      "category": "Neurological",
+      "condition": "Stroke",
+      "aliases": ["Cerebrovascular accident", "CVA"],
+      "query_terms": ["Stroke", "Cerebrovascular accident"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000075",
+      "category": "Neurological",
+      "condition": "Transient ischemic attack",
+      "aliases": ["TIA", "Mini-stroke"],
+      "query_terms": ["Transient ischemic attack", "TIA"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000076",
+      "category": "Neurological",
+      "condition": "Multiple sclerosis",
+      "aliases": ["MS"],
+      "query_terms": ["Multiple sclerosis"],
+      "exclude_terms": ["morphine sulfate", "manuscript", "mitral stenosis"]
+    },
+    {
+      "id": "cond_000077",
+      "category": "Neurological",
+      "condition": "Parkinson disease",
+      "aliases": ["Parkinson's disease"],
+      "query_terms": ["Parkinson disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000078",
+      "category": "Neurological",
+      "condition": "Alzheimer disease",
+      "aliases": ["Alzheimer's disease"],
+      "query_terms": ["Alzheimer disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000079",
+      "category": "Neurological",
+      "condition": "Dementia",
+      "aliases": [],
+      "query_terms": ["Dementia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000080",
+      "category": "Neurological",
+      "condition": "Peripheral neuropathy",
+      "aliases": [],
+      "query_terms": ["Peripheral neuropathy"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000081",
+      "category": "Neurological",
+      "condition": "Carpal tunnel syndrome",
+      "aliases": [],
+      "query_terms": ["Carpal tunnel syndrome"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000082",
+      "category": "Neurological",
+      "condition": "Bell palsy",
+      "aliases": ["Bell's palsy"],
+      "query_terms": ["Bell palsy"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000083",
+      "category": "Neurological",
+      "condition": "Meningitis",
+      "aliases": [],
+      "query_terms": ["Meningitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000084",
+      "category": "Neurological",
+      "condition": "Encephalitis",
+      "aliases": [],
+      "query_terms": ["Encephalitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000085",
+      "category": "Neurological",
+      "condition": "Concussion",
+      "aliases": ["Mild traumatic brain injury", "mTBI"],
+      "query_terms": ["Concussion", "Traumatic brain injury"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000086",
+      "category": "Neurological",
+      "condition": "Essential tremor",
+      "aliases": [],
+      "query_terms": ["Essential tremor"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000087",
+      "category": "Neurological",
+      "condition": "Sciatica",
+      "aliases": [],
+      "query_terms": ["Sciatica"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000088",
+      "category": "Neurological",
+      "condition": "Guillain-Barre syndrome",
+      "aliases": ["GBS"],
+      "query_terms": ["Guillain-Barre syndrome"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000089",
+      "category": "Psychiatric",
+      "condition": "Major depressive disorder",
+      "aliases": ["Depression", "MDD"],
+      "query_terms": ["Major depressive disorder", "Depression"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000090",
+      "category": "Psychiatric",
+      "condition": "Generalized anxiety disorder",
+      "aliases": ["GAD"],
+      "query_terms": ["Generalized anxiety disorder"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000091",
+      "category": "Psychiatric",
+      "condition": "Panic disorder",
+      "aliases": [],
+      "query_terms": ["Panic disorder"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000092",
+      "category": "Psychiatric",
+      "condition": "Social anxiety disorder",
+      "aliases": ["Social phobia"],
+      "query_terms": ["Social anxiety disorder"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000093",
+      "category": "Psychiatric",
+      "condition": "Obsessive-compulsive disorder",
+      "aliases": ["OCD"],
+      "query_terms": ["Obsessive-compulsive disorder"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000094",
+      "category": "Psychiatric",
+      "condition": "Post-traumatic stress disorder",
+      "aliases": ["PTSD"],
+      "query_terms": ["Post-traumatic stress disorder"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000095",
+      "category": "Psychiatric",
+      "condition": "Bipolar disorder",
+      "aliases": [],
+      "query_terms": ["Bipolar disorder"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000096",
+      "category": "Psychiatric",
+      "condition": "Schizophrenia",
+      "aliases": [],
+      "query_terms": ["Schizophrenia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000097",
+      "category": "Psychiatric",
+      "condition": "Alcohol use disorder",
+      "aliases": ["Alcoholism"],
+      "query_terms": ["Alcohol use disorder"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000098",
+      "category": "Psychiatric",
+      "condition": "Opioid use disorder",
+      "aliases": [],
+      "query_terms": ["Opioid use disorder"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000099",
+      "category": "Psychiatric",
+      "condition": "Insomnia",
+      "aliases": [],
+      "query_terms": ["Insomnia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000100",
+      "category": "Psychiatric",
+      "condition": "Attention-deficit/hyperactivity disorder",
+      "aliases": ["ADHD"],
+      "query_terms": ["Attention-deficit/hyperactivity disorder"],
+      "exclude_terms": []
+    },
+
+    {
+      "id": "cond_000101",
+      "category": "Gastrointestinal",
+      "condition": "Gastroesophageal reflux disease",
+      "aliases": ["GERD", "Acid reflux"],
+      "query_terms": ["Gastroesophageal reflux disease", "Acid reflux"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000102",
+      "category": "Gastrointestinal",
+      "condition": "Peptic ulcer disease",
+      "aliases": ["PUD"],
+      "query_terms": ["Peptic ulcer disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000103",
+      "category": "Gastrointestinal",
+      "condition": "Gastritis",
+      "aliases": [],
+      "query_terms": ["Gastritis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000104",
+      "category": "Gastrointestinal",
+      "condition": "Helicobacter pylori infection",
+      "aliases": ["H. pylori"],
+      "query_terms": ["Helicobacter pylori"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000105",
+      "category": "Gastrointestinal",
+      "condition": "Irritable bowel syndrome",
+      "aliases": ["IBS"],
+      "query_terms": ["Irritable bowel syndrome"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000106",
+      "category": "Gastrointestinal",
+      "condition": "Inflammatory bowel disease",
+      "aliases": ["IBD"],
+      "query_terms": ["Inflammatory bowel disease", "Crohn disease", "Ulcerative colitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000107",
+      "category": "Gastrointestinal",
+      "condition": "Crohn disease",
+      "aliases": [],
+      "query_terms": ["Crohn disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000108",
+      "category": "Gastrointestinal",
+      "condition": "Ulcerative colitis",
+      "aliases": ["UC"],
+      "query_terms": ["Ulcerative colitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000109",
+      "category": "Gastrointestinal",
+      "condition": "Celiac disease",
+      "aliases": [],
+      "query_terms": ["Celiac disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000110",
+      "category": "Gastrointestinal",
+      "condition": "Diverticulosis",
+      "aliases": [],
+      "query_terms": ["Diverticulosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000111",
+      "category": "Gastrointestinal",
+      "condition": "Diverticulitis",
+      "aliases": [],
+      "query_terms": ["Diverticulitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000112",
+      "category": "Gastrointestinal",
+      "condition": "Constipation",
+      "aliases": [],
+      "query_terms": ["Constipation"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000113",
+      "category": "Gastrointestinal",
+      "condition": "Diarrhea",
+      "aliases": [],
+      "query_terms": ["Diarrhea"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000114",
+      "category": "Gastrointestinal",
+      "condition": "Hemorrhoids",
+      "aliases": [],
+      "query_terms": ["Hemorrhoids"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000115",
+      "category": "Gastrointestinal",
+      "condition": "Anal fissure",
+      "aliases": [],
+      "query_terms": ["Anal fissure"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000116",
+      "category": "Gastrointestinal",
+      "condition": "Appendicitis",
+      "aliases": [],
+      "query_terms": ["Appendicitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000117",
+      "category": "Gastrointestinal",
+      "condition": "Cholelithiasis",
+      "aliases": ["Gallstones"],
+      "query_terms": ["Gallstones", "Cholelithiasis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000118",
+      "category": "Gastrointestinal",
+      "condition": "Cholecystitis",
+      "aliases": [],
+      "query_terms": ["Cholecystitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000119",
+      "category": "Gastrointestinal",
+      "condition": "Pancreatitis",
+      "aliases": [],
+      "query_terms": ["Pancreatitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000120",
+      "category": "Gastrointestinal",
+      "condition": "Hepatitis B",
+      "aliases": ["HBV"],
+      "query_terms": ["Hepatitis B"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000121",
+      "category": "Gastrointestinal",
+      "condition": "Hepatitis C",
+      "aliases": ["HCV"],
+      "query_terms": ["Hepatitis C"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000122",
+      "category": "Gastrointestinal",
+      "condition": "Nonalcoholic fatty liver disease",
+      "aliases": ["NAFLD", "MASLD"],
+      "query_terms": ["Nonalcoholic fatty liver disease", "Fatty liver"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000123",
+      "category": "Gastrointestinal",
+      "condition": "Cirrhosis",
+      "aliases": [],
+      "query_terms": ["Cirrhosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000124",
+      "category": "Gastrointestinal",
+      "condition": "Lactose intolerance",
+      "aliases": [],
+      "query_terms": ["Lactose intolerance"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000125",
+      "category": "Gastrointestinal",
+      "condition": "Gastroenteritis",
+      "aliases": ["Stomach flu"],
+      "query_terms": ["Gastroenteritis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000126",
+      "category": "Gastrointestinal",
+      "condition": "Functional dyspepsia",
+      "aliases": ["Irritable dyspepsia"],
+      "query_terms": ["Functional dyspepsia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000127",
+      "category": "Gastrointestinal",
+      "condition": "Colorectal polyps",
+      "aliases": ["Colon polyps"],
+      "query_terms": ["Colorectal polyps", "Colon polyps"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000128",
+      "category": "Gastrointestinal",
+      "condition": "Colorectal cancer",
+      "aliases": ["Colon cancer"],
+      "query_terms": ["Colorectal cancer", "Colon cancer"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000129",
+      "category": "Renal and Urologic",
+      "condition": "Chronic kidney disease",
+      "aliases": ["CKD"],
+      "query_terms": ["Chronic kidney disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000130",
+      "category": "Renal and Urologic",
+      "condition": "Acute kidney injury",
+      "aliases": ["AKI"],
+      "query_terms": ["Acute kidney injury"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000131",
+      "category": "Renal and Urologic",
+      "condition": "Urinary tract infection",
+      "aliases": ["UTI"],
+      "query_terms": ["Urinary tract infection"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000132",
+      "category": "Renal and Urologic",
+      "condition": "Pyelonephritis",
+      "aliases": ["Kidney infection"],
+      "query_terms": ["Pyelonephritis", "Kidney infection"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000133",
+      "category": "Renal and Urologic",
+      "condition": "Nephrolithiasis",
+      "aliases": ["Kidney stones"],
+      "query_terms": ["Kidney stones", "Nephrolithiasis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000134",
+      "category": "Renal and Urologic",
+      "condition": "Benign prostatic hyperplasia",
+      "aliases": ["BPH"],
+      "query_terms": ["Benign prostatic hyperplasia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000135",
+      "category": "Renal and Urologic",
+      "condition": "Prostatitis",
+      "aliases": [],
+      "query_terms": ["Prostatitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000136",
+      "category": "Renal and Urologic",
+      "condition": "Urinary incontinence",
+      "aliases": [],
+      "query_terms": ["Urinary incontinence"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000137",
+      "category": "Renal and Urologic",
+      "condition": "Overactive bladder",
+      "aliases": [],
+      "query_terms": ["Overactive bladder"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000138",
+      "category": "Renal and Urologic",
+      "condition": "Erectile dysfunction",
+      "aliases": ["ED"],
+      "query_terms": ["Erectile dysfunction"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000139",
+      "category": "Renal and Urologic",
+      "condition": "Chronic prostatitis/chronic pelvic pain syndrome",
+      "aliases": ["CP/CPPS"],
+      "query_terms": ["Chronic pelvic pain syndrome"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000140",
+      "category": "Musculoskeletal",
+      "condition": "Osteoarthritis",
+      "aliases": ["Degenerative joint disease"],
+      "query_terms": ["Osteoarthritis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000141",
+      "category": "Musculoskeletal",
+      "condition": "Rheumatoid arthritis",
+      "aliases": ["RA"],
+      "query_terms": ["Rheumatoid arthritis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000142",
+      "category": "Musculoskeletal",
+      "condition": "Psoriatic arthritis",
+      "aliases": [],
+      "query_terms": ["Psoriatic arthritis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000143",
+      "category": "Musculoskeletal",
+      "condition": "Ankylosing spondylitis",
+      "aliases": [],
+      "query_terms": ["Ankylosing spondylitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000144",
+      "category": "Musculoskeletal",
+      "condition": "Gout",
+      "aliases": [],
+      "query_terms": ["Gout"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000145",
+      "category": "Musculoskeletal",
+      "condition": "Pseudogout",
+      "aliases": ["CPPD"],
+      "query_terms": ["Pseudogout", "CPPD"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000146",
+      "category": "Musculoskeletal",
+      "condition": "Osteoporosis",
+      "aliases": [],
+      "query_terms": ["Osteoporosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000147",
+      "category": "Musculoskeletal",
+      "condition": "Osteopenia",
+      "aliases": [],
+      "query_terms": ["Osteopenia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000148",
+      "category": "Musculoskeletal",
+      "condition": "Low back pain",
+      "aliases": ["Back pain"],
+      "query_terms": ["Low back pain", "Back pain"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000149",
+      "category": "Musculoskeletal",
+      "condition": "Neck pain",
+      "aliases": [],
+      "query_terms": ["Neck pain"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000150",
+      "category": "Musculoskeletal",
+      "condition": "Herniated disc",
+      "aliases": ["Slipped disc"],
+      "query_terms": ["Herniated disc"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000151",
+      "category": "Musculoskeletal",
+      "condition": "Scoliosis",
+      "aliases": [],
+      "query_terms": ["Scoliosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000152",
+      "category": "Musculoskeletal",
+      "condition": "Rotator cuff tear",
+      "aliases": [],
+      "query_terms": ["Rotator cuff tear"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000153",
+      "category": "Musculoskeletal",
+      "condition": "Tendinitis",
+      "aliases": ["Tendonitis"],
+      "query_terms": ["Tendinitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000154",
+      "category": "Musculoskeletal",
+      "condition": "Bursitis",
+      "aliases": [],
+      "query_terms": ["Bursitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000155",
+      "category": "Musculoskeletal",
+      "condition": "Plantar fasciitis",
+      "aliases": [],
+      "query_terms": ["Plantar fasciitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000156",
+      "category": "Musculoskeletal",
+      "condition": "Tennis elbow",
+      "aliases": ["Lateral epicondylitis"],
+      "query_terms": ["Tennis elbow", "Lateral epicondylitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000157",
+      "category": "Musculoskeletal",
+      "condition": "Golfer's elbow",
+      "aliases": ["Medial epicondylitis"],
+      "query_terms": ["Golfer's elbow", "Medial epicondylitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000158",
+      "category": "Musculoskeletal",
+      "condition": "Fibromyalgia",
+      "aliases": [],
+      "query_terms": ["Fibromyalgia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000159",
+      "category": "Musculoskeletal",
+      "condition": "Myofascial pain syndrome",
+      "aliases": [],
+      "query_terms": ["Myofascial pain syndrome"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000160",
+      "category": "Musculoskeletal",
+      "condition": "Fracture",
+      "aliases": ["Broken bone"],
+      "query_terms": ["Fracture", "Broken bone"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000161",
+      "category": "Musculoskeletal",
+      "condition": "Sprain",
+      "aliases": [],
+      "query_terms": ["Sprain"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000162",
+      "category": "Musculoskeletal",
+      "condition": "Strain",
+      "aliases": [],
+      "query_terms": ["Muscle strain", "Strain"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000163",
+      "category": "Dermatologic",
+      "condition": "Atopic dermatitis",
+      "aliases": ["Eczema"],
+      "query_terms": ["Atopic dermatitis", "Eczema"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000164",
+      "category": "Dermatologic",
+      "condition": "Contact dermatitis",
+      "aliases": [],
+      "query_terms": ["Contact dermatitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000165",
+      "category": "Dermatologic",
+      "condition": "Psoriasis",
+      "aliases": [],
+      "query_terms": ["Psoriasis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000166",
+      "category": "Dermatologic",
+      "condition": "Acne vulgaris",
+      "aliases": ["Acne"],
+      "query_terms": ["Acne vulgaris", "Acne"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000167",
+      "category": "Dermatologic",
+      "condition": "Rosacea",
+      "aliases": [],
+      "query_terms": ["Rosacea"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000168",
+      "category": "Dermatologic",
+      "condition": "Urticaria",
+      "aliases": ["Hives"],
+      "query_terms": ["Urticaria", "Hives"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000169",
+      "category": "Dermatologic",
+      "condition": "Cellulitis",
+      "aliases": [],
+      "query_terms": ["Cellulitis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000170",
+      "category": "Dermatologic",
+      "condition": "Impetigo",
+      "aliases": [],
+      "query_terms": ["Impetigo"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000171",
+      "category": "Dermatologic",
+      "condition": "Tinea pedis",
+      "aliases": ["Athlete's foot"],
+      "query_terms": ["Athlete's foot", "Tinea pedis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000172",
+      "category": "Dermatologic",
+      "condition": "Onychomycosis",
+      "aliases": ["Fungal nail infection"],
+      "query_terms": ["Onychomycosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000173",
+      "category": "Dermatologic",
+      "condition": "Tinea corporis",
+      "aliases": ["Ringworm"],
+      "query_terms": ["Ringworm", "Tinea corporis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000174",
+      "category": "Dermatologic",
+      "condition": "Herpes simplex",
+      "aliases": ["HSV", "Cold sores", "Genital herpes"],
+      "query_terms": ["Herpes simplex", "HSV"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000175",
+      "category": "Dermatologic",
+      "condition": "Herpes zoster",
+      "aliases": ["Shingles"],
+      "query_terms": ["Shingles", "Herpes zoster"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000176",
+      "category": "Dermatologic",
+      "condition": "Warts",
+      "aliases": ["Verruca"],
+      "query_terms": ["Warts"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000177",
+      "category": "Dermatologic",
+      "condition": "Vitiligo",
+      "aliases": [],
+      "query_terms": ["Vitiligo"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000178",
+      "category": "Dermatologic",
+      "condition": "Alopecia areata",
+      "aliases": [],
+      "query_terms": ["Alopecia areata"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000179",
+      "category": "Dermatologic",
+      "condition": "Skin cancer",
+      "aliases": ["Melanoma", "Basal cell carcinoma", "Squamous cell carcinoma"],
+      "query_terms": ["Skin cancer", "Melanoma"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000180",
+      "category": "Dermatologic",
+      "condition": "Pressure ulcer",
+      "aliases": ["Bed sore"],
+      "query_terms": ["Pressure ulcer", "Bed sore"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000181",
+      "category": "Infectious Diseases",
+      "condition": "Sepsis",
+      "aliases": [],
+      "query_terms": ["Sepsis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000182",
+      "category": "Infectious Diseases",
+      "condition": "Clostridioides difficile infection",
+      "aliases": ["C. diff"],
+      "query_terms": ["Clostridioides difficile", "C. diff"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000183",
+      "category": "Infectious Diseases",
+      "condition": "Lyme disease",
+      "aliases": [],
+      "query_terms": ["Lyme disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000184",
+      "category": "Infectious Diseases",
+      "condition": "Mononucleosis",
+      "aliases": ["Mono", "EBV infection"],
+      "query_terms": ["Mononucleosis", "Epstein-Barr virus"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000185",
+      "category": "Infectious Diseases",
+      "condition": "Bacterial vaginosis",
+      "aliases": ["BV"],
+      "query_terms": ["Bacterial vaginosis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000186",
+      "category": "Infectious Diseases",
+      "condition": "Candidiasis",
+      "aliases": ["Yeast infection"],
+      "query_terms": ["Candidiasis", "Yeast infection"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000187",
+      "category": "Infectious Diseases",
+      "condition": "Sexually transmitted infection",
+      "aliases": ["STI", "STD"],
+      "query_terms": ["Sexually transmitted infection"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000188",
+      "category": "Infectious Diseases",
+      "condition": "Chlamydia infection",
+      "aliases": [],
+      "query_terms": ["Chlamydia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000189",
+      "category": "Infectious Diseases",
+      "condition": "Gonorrhea",
+      "aliases": [],
+      "query_terms": ["Gonorrhea"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000190",
+      "category": "Infectious Diseases",
+      "condition": "Syphilis",
+      "aliases": [],
+      "query_terms": ["Syphilis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000191",
+      "category": "Infectious Diseases",
+      "condition": "Trichomoniasis",
+      "aliases": [],
+      "query_terms": ["Trichomoniasis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000192",
+      "category": "Infectious Diseases",
+      "condition": "Human immunodeficiency virus infection",
+      "aliases": ["HIV"],
+      "query_terms": ["HIV"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000193",
+      "category": "Infectious Diseases",
+      "condition": "Acquired immunodeficiency syndrome",
+      "aliases": ["AIDS"],
+      "query_terms": ["AIDS"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000194",
+      "category": "Infectious Diseases",
+      "condition": "Malaria",
+      "aliases": [],
+      "query_terms": ["Malaria"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000195",
+      "category": "Infectious Diseases",
+      "condition": "Giardiasis",
+      "aliases": [],
+      "query_terms": ["Giardiasis"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000196",
+      "category": "Infectious Diseases",
+      "condition": "Helminth infection",
+      "aliases": ["Intestinal worms"],
+      "query_terms": ["Helminth infection", "Intestinal worms"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000197",
+      "category": "Hematologic and Oncologic",
+      "condition": "Iron deficiency anemia",
+      "aliases": [],
+      "query_terms": ["Iron deficiency anemia"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000198",
+      "category": "Hematologic and Oncologic",
+      "condition": "Anemia of chronic disease",
+      "aliases": [],
+      "query_terms": ["Anemia of chronic disease"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000199",
+      "category": "Hematologic and Oncologic",
+      "condition": "Vitamin B12 deficiency",
+      "aliases": ["Cobalamin deficiency"],
+      "query_terms": ["Vitamin B12 deficiency"],
+      "exclude_terms": []
+    },
+    {
+      "id": "cond_000200",
+      "category": "Hematologic and Oncologic",
+      "condition": "Folate deficiency",
+      "aliases": [],
+      "query_terms": ["Folate deficiency"],
+      "exclude_terms": []
+    }
+  ]
+}

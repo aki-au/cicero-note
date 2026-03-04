@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "cond_000001",
+    "condition": "Hypertension",
+    "aliases": [
+      "High blood pressure",
+      "HTN"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000002",
+    "condition": "Hypotension",
+    "aliases": [
+      "Low blood pressure"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000003",
+    "condition": "Hyperlipidemia",
+    "aliases": [
+      "High cholesterol",
+      "Dyslipidemia"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000004",
+    "condition": "Coronary artery disease",
+    "aliases": [
+      "CAD",
+      "Ischemic heart disease"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000005",
+    "condition": "Stable angina",
+    "aliases": [
+      "Angina pectoris"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000006",
+    "condition": "Acute coronary syndrome",
+    "aliases": [
+      "ACS"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000007",
+    "condition": "Myocardial infarction",
+    "aliases": [
+      "Heart attack",
+      "MI"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000008",
+    "condition": "Heart failure",
+    "aliases": [
+      "Congestive heart failure",
+      "CHF"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000009",
+    "condition": "Cardiomyopathy",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000010",
+    "condition": "Atrial fibrillation",
+    "aliases": [
+      "AFib"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000011",
+    "condition": "Atrial flutter",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000012",
+    "condition": "Supraventricular tachycardia",
+    "aliases": [
+      "SVT"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000013",
+    "condition": "Ventricular tachycardia",
+    "aliases": [
+      "VT"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000014",
+    "condition": "Bradycardia",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000015",
+    "condition": "Peripheral artery disease",
+    "aliases": [
+      "PAD"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000016",
+    "condition": "Deep vein thrombosis",
+    "aliases": [
+      "DVT"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000017",
+    "condition": "Pulmonary embolism",
+    "aliases": [
+      "PE"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000018",
+    "condition": "Aortic aneurysm",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000019",
+    "condition": "Aortic dissection",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000020",
+    "condition": "Valvular heart disease",
+    "aliases": [
+      "Heart valve disease"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000021",
+    "condition": "Aortic stenosis",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000022",
+    "condition": "Mitral regurgitation",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000023",
+    "condition": "Endocarditis",
+    "aliases": [
+      "Infective endocarditis"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000024",
+    "condition": "Pericarditis",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000025",
+    "condition": "Cardiac tamponade",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000026",
+    "condition": "Raynaud phenomenon",
+    "aliases": [
+      "Raynaud's"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000027",
+    "condition": "Orthostatic hypotension",
+    "aliases": [],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000028",
+    "condition": "Syncope",
+    "aliases": [
+      "Fainting"
+    ],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "cond_000029",
+    "condition": "Asthma",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000030",
+    "condition": "Exercise-induced bronchoconstriction",
+    "aliases": [
+      "Exercise-induced asthma"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000031",
+    "condition": "Chronic obstructive pulmonary disease",
+    "aliases": [
+      "COPD"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000032",
+    "condition": "Chronic bronchitis",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000033",
+    "condition": "Emphysema",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000034",
+    "condition": "Pneumonia",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000035",
+    "condition": "Acute bronchitis",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000036",
+    "condition": "Upper respiratory infection",
+    "aliases": [
+      "URI",
+      "Common cold"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000037",
+    "condition": "Influenza",
+    "aliases": [
+      "Flu"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000038",
+    "condition": "COVID-19",
+    "aliases": [
+      "SARS-CoV-2 infection"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000039",
+    "condition": "Tuberculosis",
+    "aliases": [
+      "TB"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000040",
+    "condition": "Sinusitis",
+    "aliases": [
+      "Rhinosinusitis"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000041",
+    "condition": "Allergic rhinitis",
+    "aliases": [
+      "Hay fever"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000042",
+    "condition": "Obstructive sleep apnea",
+    "aliases": [
+      "OSA"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000043",
+    "condition": "Laryngitis",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000044",
+    "condition": "Croup",
+    "aliases": [
+      "Laryngotracheobronchitis"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000045",
+    "condition": "Pleural effusion",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000046",
+    "condition": "Pneumothorax",
+    "aliases": [
+      "Collapsed lung"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000047",
+    "condition": "Interstitial lung disease",
+    "aliases": [
+      "ILD"
+    ],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000048",
+    "condition": "Sarcoidosis",
+    "aliases": [],
+    "category": "Respiratory"
+  },
+  {
+    "id": "cond_000049",
+    "condition": "Type 1 diabetes mellitus",
+    "aliases": [
+      "T1DM",
+      "Type 1 diabetes"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000050",
+    "condition": "Type 2 diabetes mellitus",
+    "aliases": [
+      "T2DM",
+      "Type 2 diabetes"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000051",
+    "condition": "Prediabetes",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000052",
+    "condition": "Hypoglycemia",
+    "aliases": [
+      "Low blood sugar"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000053",
+    "condition": "Diabetic ketoacidosis",
+    "aliases": [
+      "DKA"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000054",
+    "condition": "Hypothyroidism",
+    "aliases": [
+      "Underactive thyroid"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000055",
+    "condition": "Hyperthyroidism",
+    "aliases": [
+      "Overactive thyroid"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000056",
+    "condition": "Hashimoto thyroiditis",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000057",
+    "condition": "Graves disease",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000058",
+    "condition": "Thyroid nodule",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000059",
+    "condition": "Goiter",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000060",
+    "condition": "Polycystic ovary syndrome",
+    "aliases": [
+      "PCOS"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000061",
+    "condition": "Cushing syndrome",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000062",
+    "condition": "Addison disease",
+    "aliases": [
+      "Primary adrenal insufficiency"
+    ],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000063",
+    "condition": "Hyperparathyroidism",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000064",
+    "condition": "Hypoparathyroidism",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000065",
+    "condition": "Vitamin D deficiency",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000066",
+    "condition": "Obesity",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000067",
+    "condition": "Metabolic syndrome",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000068",
+    "condition": "Hyperuricemia",
+    "aliases": [],
+    "category": "Endocrine and Metabolic"
+  },
+  {
+    "id": "cond_000069",
+    "condition": "Migraine",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000070",
+    "condition": "Tension-type headache",
+    "aliases": [
+      "Tension headache"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000071",
+    "condition": "Cluster headache",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000072",
+    "condition": "Epilepsy",
+    "aliases": [
+      "Seizure disorder"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000073",
+    "condition": "Febrile seizure",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000074",
+    "condition": "Stroke",
+    "aliases": [
+      "Cerebrovascular accident",
+      "CVA"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000075",
+    "condition": "Transient ischemic attack",
+    "aliases": [
+      "TIA",
+      "Mini-stroke"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000076",
+    "condition": "Multiple sclerosis",
+    "aliases": [
+      "MS"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000077",
+    "condition": "Parkinson disease",
+    "aliases": [
+      "Parkinson's disease"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000078",
+    "condition": "Alzheimer disease",
+    "aliases": [
+      "Alzheimer's disease"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000079",
+    "condition": "Dementia",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000080",
+    "condition": "Peripheral neuropathy",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000081",
+    "condition": "Carpal tunnel syndrome",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000082",
+    "condition": "Bell palsy",
+    "aliases": [
+      "Bell's palsy"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000083",
+    "condition": "Meningitis",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000084",
+    "condition": "Encephalitis",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000085",
+    "condition": "Concussion",
+    "aliases": [
+      "Mild traumatic brain injury",
+      "mTBI"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000086",
+    "condition": "Essential tremor",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000087",
+    "condition": "Sciatica",
+    "aliases": [],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000088",
+    "condition": "Guillain-Barre syndrome",
+    "aliases": [
+      "GBS"
+    ],
+    "category": "Neurological"
+  },
+  {
+    "id": "cond_000089",
+    "condition": "Major depressive disorder",
+    "aliases": [
+      "Depression",
+      "MDD"
+    ],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000090",
+    "condition": "Generalized anxiety disorder",
+    "aliases": [
+      "GAD"
+    ],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000091",
+    "condition": "Panic disorder",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000092",
+    "condition": "Social anxiety disorder",
+    "aliases": [
+      "Social phobia"
+    ],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000093",
+    "condition": "Obsessive-compulsive disorder",
+    "aliases": [
+      "OCD"
+    ],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000094",
+    "condition": "Post-traumatic stress disorder",
+    "aliases": [
+      "PTSD"
+    ],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000095",
+    "condition": "Bipolar disorder",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000096",
+    "condition": "Schizophrenia",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000097",
+    "condition": "Alcohol use disorder",
+    "aliases": [
+      "Alcoholism"
+    ],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000098",
+    "condition": "Opioid use disorder",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000099",
+    "condition": "Insomnia",
+    "aliases": [],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000100",
+    "condition": "Attention-deficit/hyperactivity disorder",
+    "aliases": [
+      "ADHD"
+    ],
+    "category": "Psychiatric"
+  },
+  {
+    "id": "cond_000101",
+    "condition": "Gastroesophageal reflux disease",
+    "aliases": [
+      "GERD",
+      "Acid reflux"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000102",
+    "condition": "Peptic ulcer disease",
+    "aliases": [
+      "PUD"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000103",
+    "condition": "Gastritis",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000104",
+    "condition": "Helicobacter pylori infection",
+    "aliases": [
+      "H. pylori"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000105",
+    "condition": "Irritable bowel syndrome",
+    "aliases": [
+      "IBS"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000106",
+    "condition": "Inflammatory bowel disease",
+    "aliases": [
+      "IBD"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000107",
+    "condition": "Crohn disease",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000108",
+    "condition": "Ulcerative colitis",
+    "aliases": [
+      "UC"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000109",
+    "condition": "Celiac disease",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000110",
+    "condition": "Diverticulosis",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000111",
+    "condition": "Diverticulitis",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000112",
+    "condition": "Constipation",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000113",
+    "condition": "Diarrhea",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000114",
+    "condition": "Hemorrhoids",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000115",
+    "condition": "Anal fissure",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000116",
+    "condition": "Appendicitis",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000117",
+    "condition": "Cholelithiasis",
+    "aliases": [
+      "Gallstones"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000118",
+    "condition": "Cholecystitis",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000119",
+    "condition": "Pancreatitis",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000120",
+    "condition": "Hepatitis B",
+    "aliases": [
+      "HBV"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000121",
+    "condition": "Hepatitis C",
+    "aliases": [
+      "HCV"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000122",
+    "condition": "Nonalcoholic fatty liver disease",
+    "aliases": [
+      "NAFLD",
+      "MASLD"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000123",
+    "condition": "Cirrhosis",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000124",
+    "condition": "Lactose intolerance",
+    "aliases": [],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000125",
+    "condition": "Gastroenteritis",
+    "aliases": [
+      "Stomach flu"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000126",
+    "condition": "Functional dyspepsia",
+    "aliases": [
+      "Irritable dyspepsia"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000127",
+    "condition": "Colorectal polyps",
+    "aliases": [
+      "Colon polyps"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000128",
+    "condition": "Colorectal cancer",
+    "aliases": [
+      "Colon cancer"
+    ],
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "cond_000129",
+    "condition": "Chronic kidney disease",
+    "aliases": [
+      "CKD"
+    ],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000130",
+    "condition": "Acute kidney injury",
+    "aliases": [
+      "AKI"
+    ],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000131",
+    "condition": "Urinary tract infection",
+    "aliases": [
+      "UTI"
+    ],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000132",
+    "condition": "Pyelonephritis",
+    "aliases": [
+      "Kidney infection"
+    ],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000133",
+    "condition": "Nephrolithiasis",
+    "aliases": [
+      "Kidney stones"
+    ],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000134",
+    "condition": "Benign prostatic hyperplasia",
+    "aliases": [
+      "BPH"
+    ],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000135",
+    "condition": "Prostatitis",
+    "aliases": [],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000136",
+    "condition": "Urinary incontinence",
+    "aliases": [],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000137",
+    "condition": "Overactive bladder",
+    "aliases": [],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000138",
+    "condition": "Erectile dysfunction",
+    "aliases": [
+      "ED"
+    ],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000139",
+    "condition": "Chronic prostatitis/chronic pelvic pain syndrome",
+    "aliases": [
+      "CP/CPPS"
+    ],
+    "category": "Renal and Urologic"
+  },
+  {
+    "id": "cond_000140",
+    "condition": "Osteoarthritis",
+    "aliases": [
+      "Degenerative joint disease"
+    ],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000141",
+    "condition": "Rheumatoid arthritis",
+    "aliases": [
+      "RA"
+    ],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000142",
+    "condition": "Psoriatic arthritis",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000143",
+    "condition": "Ankylosing spondylitis",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000144",
+    "condition": "Gout",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000145",
+    "condition": "Pseudogout",
+    "aliases": [
+      "CPPD"
+    ],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000146",
+    "condition": "Osteoporosis",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000147",
+    "condition": "Osteopenia",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000148",
+    "condition": "Low back pain",
+    "aliases": [
+      "Back pain"
+    ],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000149",
+    "condition": "Neck pain",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000150",
+    "condition": "Herniated disc",
+    "aliases": [
+      "Slipped disc"
+    ],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000151",
+    "condition": "Scoliosis",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000152",
+    "condition": "Rotator cuff tear",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000153",
+    "condition": "Tendinitis",
+    "aliases": [
+      "Tendonitis"
+    ],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000154",
+    "condition": "Bursitis",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000155",
+    "condition": "Plantar fasciitis",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000156",
+    "condition": "Tennis elbow",
+    "aliases": [
+      "Lateral epicondylitis"
+    ],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000157",
+    "condition": "Golfer's elbow",
+    "aliases": [
+      "Medial epicondylitis"
+    ],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000158",
+    "condition": "Fibromyalgia",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000159",
+    "condition": "Myofascial pain syndrome",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000160",
+    "condition": "Fracture",
+    "aliases": [
+      "Broken bone"
+    ],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000161",
+    "condition": "Sprain",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000162",
+    "condition": "Strain",
+    "aliases": [],
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "cond_000163",
+    "condition": "Atopic dermatitis",
+    "aliases": [
+      "Eczema"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000164",
+    "condition": "Contact dermatitis",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000165",
+    "condition": "Psoriasis",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000166",
+    "condition": "Acne vulgaris",
+    "aliases": [
+      "Acne"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000167",
+    "condition": "Rosacea",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000168",
+    "condition": "Urticaria",
+    "aliases": [
+      "Hives"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000169",
+    "condition": "Cellulitis",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000170",
+    "condition": "Impetigo",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000171",
+    "condition": "Tinea pedis",
+    "aliases": [
+      "Athlete's foot"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000172",
+    "condition": "Onychomycosis",
+    "aliases": [
+      "Fungal nail infection"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000173",
+    "condition": "Tinea corporis",
+    "aliases": [
+      "Ringworm"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000174",
+    "condition": "Herpes simplex",
+    "aliases": [
+      "HSV",
+      "Cold sores",
+      "Genital herpes"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000175",
+    "condition": "Herpes zoster",
+    "aliases": [
+      "Shingles"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000176",
+    "condition": "Warts",
+    "aliases": [
+      "Verruca"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000177",
+    "condition": "Vitiligo",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000178",
+    "condition": "Alopecia areata",
+    "aliases": [],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000179",
+    "condition": "Skin cancer",
+    "aliases": [
+      "Melanoma",
+      "Basal cell carcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000180",
+    "condition": "Pressure ulcer",
+    "aliases": [
+      "Bed sore"
+    ],
+    "category": "Dermatologic"
+  },
+  {
+    "id": "cond_000181",
+    "condition": "Sepsis",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000182",
+    "condition": "Clostridioides difficile infection",
+    "aliases": [
+      "C. diff"
+    ],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000183",
+    "condition": "Lyme disease",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000184",
+    "condition": "Mononucleosis",
+    "aliases": [
+      "Mono",
+      "EBV infection"
+    ],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000185",
+    "condition": "Bacterial vaginosis",
+    "aliases": [
+      "BV"
+    ],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000186",
+    "condition": "Candidiasis",
+    "aliases": [
+      "Yeast infection"
+    ],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000187",
+    "condition": "Sexually transmitted infection",
+    "aliases": [
+      "STI",
+      "STD"
+    ],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000188",
+    "condition": "Chlamydia infection",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000189",
+    "condition": "Gonorrhea",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000190",
+    "condition": "Syphilis",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000191",
+    "condition": "Trichomoniasis",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000192",
+    "condition": "Human immunodeficiency virus infection",
+    "aliases": [
+      "HIV"
+    ],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000193",
+    "condition": "Acquired immunodeficiency syndrome",
+    "aliases": [
+      "AIDS"
+    ],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000194",
+    "condition": "Malaria",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000195",
+    "condition": "Giardiasis",
+    "aliases": [],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000196",
+    "condition": "Helminth infection",
+    "aliases": [
+      "Intestinal worms"
+    ],
+    "category": "Infectious Diseases"
+  },
+  {
+    "id": "cond_000197",
+    "condition": "Iron deficiency anemia",
+    "aliases": [],
+    "category": "Hematologic and Oncologic"
+  },
+  {
+    "id": "cond_000198",
+    "condition": "Anemia of chronic disease",
+    "aliases": [],
+    "category": "Hematologic and Oncologic"
+  },
+  {
+    "id": "cond_000199",
+    "condition": "Vitamin B12 deficiency",
+    "aliases": [
+      "Cobalamin deficiency"
+    ],
+    "category": "Hematologic and Oncologic"
+  },
+  {
+    "id": "cond_000200",
+    "condition": "Folate deficiency",
+    "aliases": [],
+    "category": "Hematologic and Oncologic"
+  }
+]
