@@ -1,4 +1,4 @@
-# CiceroNote 🐶
+# CiceroNote 
 
 > Named after my dog Cicero.
 
@@ -25,7 +25,7 @@ CiceroNote aims to bridge that gap by turning complex clinical notes into a clea
 
 ---
 ## Folder Setup
-
+```
 cicero-note/
 │
 ├── app.py # Streamlit application (UI + pipeline orchestration)
@@ -44,7 +44,7 @@ cicero-note/
 │ └── metadata.json
 │
 └── requirements.txt
-
+```
 ---
 ## How to set up!
 ### 1. Install dependencies
