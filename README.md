@@ -1,6 +1,6 @@
 # CiceroNote 
 
-> Named after my dog Cicero.
+> Named after my dog Cicero :)
 
 CiceroNote is a local, privacy-first clinical note explainer. 
 
@@ -10,18 +10,17 @@ It takes a SOAP-based clinical note and transforms it into a patient-friendly ca
 
 ## What it does
 
-- **Extracts medical terms** from clinical notes and looks them up via a local corpus that you create beforehand using MedLine and Merriam-Webster Medical Dictionary API
-- **Simplifies definitions** into plain language that a patient can understand 
-- **Summarizes the note** 
-- **Extracts next steps** and patient action items
-- **Flags abnormal vitals** and visualizes them against normal ranges
-- **Builds a clinical journey flowchart** from the sequence of events in the note
+- Extracts medical terms from clinical notes and looks them up via a local corpus that you create beforehand using MedLine and Merriam-Webster Medical Dictionary API
+- Simplifies definitions into plain language 
+- Summarizes the note
+- Extracts next steps and patient action items
+- Flags abnormal vitals and visualizes them against normal ranges
+- Builds a clinical journey flowchart from the sequence of events in the note
 
 ---
  ## Why did I build this?
 
-I built CiceroNote after seeing my grandparents come home from doctor visits, not 100% sure about what had actually happened during the appointment. Medical explanations and clinical notes can be difficult to follow, even when doctors do their best to explain them clearly.
-CiceroNote aims to bridge that gap by turning complex clinical notes into a clear, structured report that patients and their families can more easily understand.
+I built CiceroNote after seeing my grandparents come home from doctor visits, not 100% sure about what had actually happened during the appointment. I wanted to create a prototype to bridge that gap!
 
 ---
 ## Folder Setup
@@ -108,9 +107,10 @@ The app will launch locally, trust ;)
 
 ## Notes
 
-- Tested on MacBook Pro M4 (16GB) — runs fully offline really comfortable after setup
+- Tested on MacBook Pro M4 (16GB) — runs fully offline, really comfortably after setup
+  Note: you might need to make sure Graphviz is set up for Windows if you are not using a Macbook.
 - No real patient data — demo only
-- In production, this would integrate with MedlinePlus Connect via ICD codes and sit behind a de-identification layer and checked to ensure we are following HIPAA guidelines.
+- In production, this would integrate with MedlinePlus Connect via ICD codes and would be checked to ensure we are following HIPAA guidelines.
 
 ---
 
