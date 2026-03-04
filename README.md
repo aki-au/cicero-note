@@ -68,9 +68,6 @@ ollama serve
 
 Create a free key at [dictionaryapi.com](https://dictionaryapi.com), then add it to `create_text_elements.py`:
 
-```python
-MW_API_KEY = "get your api keyy - it's free!"
-```
 
 This API is used as a fallback when glossary terms cannot be found in the local MedlinePlus index, that we create ourselves/
 
