@@ -29,6 +29,7 @@ I built CiceroNote after seeing my grandparents come home from doctor visits, no
 <img src="screenshots/ss4.png" width="800">
 <img src="screenshots/ss5.png" width="800">
 <img src="screenshots/ss6.png" width="800">
+<img src="screenshots/ss7.png" width="800">
 ---
 
 ## Folder Setup
