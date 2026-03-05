@@ -7,7 +7,6 @@ CiceroNote is a local, privacy-first clinical note explainer.
 It takes a SOAP-based clinical note and transforms it into a patient-friendly card: a plain-language summary, next steps, a glossary of medical terms, an abnormal vitals chart, and a clinical journey flowchart.
 
 ---
-
 ## What it does
 
 - Extracts medical terms from clinical notes and looks them up via a local corpus that you create beforehand using MedLine and Merriam-Webster Medical Dictionary API
@@ -23,6 +22,16 @@ It takes a SOAP-based clinical note and transforms it into a patient-friendly ca
 I built CiceroNote after seeing my grandparents come home from doctor visits, not 100% sure about what had actually happened during the appointment. I wanted to create a prototype to bridge that gap!
 
 ---
+### Screenshots of the App
+<img src="screenshots/ss1.png" width="800">
+<img src="screenshots/ss2.png" width="800">
+<img src="screenshots/ss3.png" width="800">
+<img src="screenshots/ss4.png" width="800">
+<img src="screenshots/ss5.png" width="800">
+<img src="screenshots/ss6.png" width="800">
+<img src="screenshots/ss7.png" width="800">
+---
+
 ## Folder Setup
 ```
 cicero-note/
